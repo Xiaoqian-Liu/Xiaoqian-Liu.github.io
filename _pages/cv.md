@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics and Applied Mathematics, China University of Mining and Technology, 2015
+* Ph.D in Statistics, North Carolina State University, 2022 (expected)
 * M.S. in Statistics, Renmin University of China, 2018
-* Ph.D in Statistics, North Carolina State University, 2022(expected)
+* B.S. in Mathematics and Applied Mathematics, China University of Mining and Technology, 2015
+
+
 
 Work experience
 ======
@@ -22,19 +24,19 @@ Work experience
   %* Duties included: Tagging issues
   * Supervisor: [Dr. Stenfan M. Wild](https://wildsm.github.io/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2015: Research Aide
+  * Argonne National Laboratory
+  %* Duties included: Tagging issues
+  * Supervisor: [Dr. Stenfan M. Wild](https://wildsm.github.io/)
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+%Skills
+%======
+%* Skill 1
+%* Skill 2
+%  * Sub-skill 2.1
+%  * Sub-skill 2.2
+%  * Sub-skill 2.3
+%* Skill 3
 
 Publications
 ======
