@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics and Applied Mathematics, China University of Mining and Technology, 2015
+* M.S. in Statistics, Renmin University of China, 2018
+* Ph.D in Statistics, North Carolina State University, 2022(expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: Givens Associate 
+  * Argonne National Laboratory
+  %* Duties included: Tagging issues
+  * Supervisor: [Dr. Stenfan M. Wild](https://wildsm.github.io/)
 
 * Fall 2015: Research Assistant
   * Github University
