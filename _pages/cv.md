@@ -21,7 +21,7 @@ Work experience
 ======
 * Summer 2021: Givens Associate 
   * Argonne National Laboratory
-  %* Duties included: Tagging issues
+  //* Duties included: Tagging issues
   * Supervisor: [Dr. Stenfan M. Wild](https://wildsm.github.io/)
 
 * Fall 2015: Research Aide
