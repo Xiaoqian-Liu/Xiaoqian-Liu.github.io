@@ -7,9 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD candidate in the [Department of Statistics](https://statistics.sciences.ncsu.edu/) at North Carolina State University, advised by Professor [Eric C. Chi](http://www.ericchi.com/).
+I am a PhD candidate in the [Department of Statistics](https://statistics.sciences.ncsu.edu/) at North Carolina State University, advised by Professor [Eric C. Chi](http://www.ericchi.com/). Before joining NCSU, I obtained my master's degree in Statistics from Renmin University of China.
 
-My research interests include numerical optimization, convex analysis, non-convex regularization and their applications in statistical learning.
+Contact
+======
+xliu62@ncsu.edu
+
 
 
 
