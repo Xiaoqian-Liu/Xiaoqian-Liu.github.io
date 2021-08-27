@@ -9,6 +9,12 @@ redirect_from:
 ---
 I am a fourth-year Ph.D. student in the [Department of Statistics](https://statistics.sciences.ncsu.edu/) at North Carolina State University, advised by Professor [Eric C. Chi](http://www.ericchi.com/). Before joining NCSU, I obtained my Master's degree in Statistics from Renmin University of China. My research interests are mainly about numerical optimization, convex analysis, and their applications in statistical learning. 
 
+**Research interests**\
+- Numerical optimization
+- Convex analysis
+- Non-convex penalization
+- Statistical learning
+
 **Contact**\
 *E-mail:* xliu62@ncsu.edu\
 *Address:* 2311 Stinson Dr, 5123 SAS Hall, Raleigh NC 27606
