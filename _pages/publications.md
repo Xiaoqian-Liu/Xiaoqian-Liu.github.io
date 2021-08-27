@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-
+[//]: #  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 
 Linear regression with group GMC penalization.\
 **X. Liu**, E. C. Chi, and A. J. Molstad. \
