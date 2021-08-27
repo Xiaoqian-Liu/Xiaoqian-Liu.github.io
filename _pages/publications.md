@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 
- %You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 
 Linear regression with group GMC penalization.\
 **X. Liu**, E. C. Chi, and A. J. Molstad. \
@@ -29,9 +28,4 @@ Sparse Principal Component Analysis with Fused Penalty (in Chinese).\
 B Zhang, and **X. Liu**.\
  Statistical Research. 2019.
 
-        
-{% include base_path %}
 
-#{% for post in site.publications reversed %}
-#  {% include archive-single.html %}
-#{% endfor %}
