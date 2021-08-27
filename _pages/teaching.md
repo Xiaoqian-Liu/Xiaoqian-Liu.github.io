@@ -5,6 +5,7 @@ title: "Teaching"
 
 ### North Carolina State University
 *Teaching Assistant*\
+
 -ST517: Applied Statistical Methods
      - Fall 2021
 - ST370: Probability and Statistics for Engineers
@@ -12,6 +13,7 @@ title: "Teaching"
      
 ### Renmin University of China
 *Teaching Assistant*\
+
 -Stochastic Analysis
     - Spring 2016
 
