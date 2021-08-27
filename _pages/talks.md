@@ -1,6 +1,6 @@
 ---
-permalink: /teaching/
-title: "Teaching"
+permalink: /talks/
+title: "Talks and Presentations"
 ---
 
 ## North Carolina State University\
