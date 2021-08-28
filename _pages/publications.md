@@ -11,9 +11,9 @@ author_profile: true
 **X. Liu**, E. C. Chi, and A. J. Molstad. \
 *In preparation*. 
 
-- **Computation of the GMC-type Penalized Least-Squares via Convex Conjugate.**\
-**X. Liu**, E. C. Chi, and D. Papp. \
-*In preparation*. 
+[//]: #  - **Computation of the GMC-type Penalized Least-Squares via Convex Conjugate.**\
+[//]: #  **X. Liu**, E. C. Chi, and D. Papp. \
+[//]: #  *In preparation*. 
 
 - **Revisiting Convexity-Preserving Signal Recovery with the Linearly Involved GMC Penalty.**\
 **X. Liu**, and E. C. Chi.\
