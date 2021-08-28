@@ -9,9 +9,9 @@ During my PhD studies, I was pleased to work as a research assistant under the s
 
 **Research interests**\
 Numerical optimization\
-Convex analysis\
+Statistical learning\
 Non-convex penalization\
-Statistical learning
+Convex analysis
 
 **Contact**\
 xliu62 [at] ncsu [dot] edu\
