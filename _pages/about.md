@@ -16,7 +16,7 @@ Non-convex penalization
 Statistical learning
 
 **Contact**\
-xliu62@ncsu.edu\
+xliu62 [at] ncsu [dot] edu\
 2311 Stinson Dr.\
 5123 SAS Hall\
 Raleigh, NC 27606
