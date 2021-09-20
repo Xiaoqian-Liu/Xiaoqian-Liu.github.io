@@ -11,7 +11,7 @@ author_profile: true
 **X. Liu**,  A. J. Molstad, and E. C. Chi. \
 *In preparation*. 
 
-- **GMC-type Penalized Least-Squares: Computation and Convex-Preservability**\
+- **The GMC-type Penalized Least-Squares: Computation and Convex-Preservability**\
 **X. Liu**,  D. Papp, and E. C. Chi. \
 *In preparation*. 
 
