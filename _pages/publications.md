@@ -7,28 +7,28 @@ author_profile: true
 
 [//]: #  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 
-- **Linear Regression with Group GMC Penalization.**\
+- **Linear Regression with Group GMC Penalization**\
 **X. Liu**,  A. J. Molstad, and E. C. Chi. \
 *In preparation*. 
 
-- **GMC-type Penalized Least-Squares: Computation and Convex-Preservability..**\
+- **GMC-type Penalized Least-Squares: Computation and Convex-Preservability**\
 **X. Liu**,  D. Papp, and E. C. Chi. \
 *In preparation*. 
 
-[//]: #  - **Computation of the GMC-type Penalized Least-Squares via Convex Conjugate.**\
+[//]: #  - **Computation of the GMC-type Penalized Least-Squares via Convex Conjugate**\
 [//]: #  **X. Liu**, E. C. Chi, and D. Papp. \
 [//]: #  *In preparation*. 
 
-- **Revisiting Convexity-Preserving Signal Recovery with the Linearly Involved GMC Penalty.**\
+- **Revisiting Convexity-Preserving Signal Recovery with the Linearly Involved GMC Penalty**\
 **X. Liu**, and E. C. Chi.\
-*Revised*.
+*Under review*.
 
- - **An Interpretable Machine Learning Model to Classify Coronary Bifurcation Lesions.**\
+ - **An Interpretable Machine Learning Model to Classify Coronary Bifurcation Lesions**\
 **X. Liu**,  M. Vardhan, Q. Wen, A. Das, A. Randles, and E. C. Chi.\
 The 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), Oct. 31 - Nov. 4, 2021. 
 *Accepted*.
         
-- **Sparse Principal Component Analysis with Fused Penalty.**\
+- **Sparse Principal Component Analysis with Fused Penalty**\
 B Zhang, and **X. Liu**.\
  Statistical Research. 2019.
 
