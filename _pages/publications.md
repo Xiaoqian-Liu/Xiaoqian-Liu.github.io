@@ -7,8 +7,12 @@ author_profile: true
 
 [//]: #  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 
-- **Linear regression with group GMC penalization.**\
-**X. Liu**, E. C. Chi, and A. J. Molstad. \
+- **Linear Regression with Group GMC Penalization.**\
+**X. Liu**,  A. J. Molstad, and E. C. Chi. \
+*In preparation*. 
+
+- **GMC-type Penalized Least-Squares: Computation and Convex-Preservability..**\
+**X. Liu**,  D. Papp, and E. C. Chi. \
 *In preparation*. 
 
 [//]: #  - **Computation of the GMC-type Penalized Least-Squares via Convex Conjugate.**\
@@ -17,7 +21,7 @@ author_profile: true
 
 - **Revisiting Convexity-Preserving Signal Recovery with the Linearly Involved GMC Penalty.**\
 **X. Liu**, and E. C. Chi.\
-*Submitted*.
+*Revised*.
 
  - **An Interpretable Machine Learning Model to Classify Coronary Bifurcation Lesions.**\
 **X. Liu**,  M. Vardhan, Q. Wen, A. Das, A. Randles, and E. C. Chi.\
