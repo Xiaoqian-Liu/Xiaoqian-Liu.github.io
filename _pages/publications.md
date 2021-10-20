@@ -7,9 +7,6 @@ author_profile: true
 
 [//]: #  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 
-- **Grouped Variable Selection with a Convex-Nonconvex Strategy**\
-**X. Liu**,  A. J. Molstad, and E. C. Chi. \
-*In preparation*. 
 
 - **The GMC-type Penalized Least-Squares: Computation and Convex-Preservability**\
 **X. Liu**,  D. Papp, and E. C. Chi. \
@@ -18,6 +15,10 @@ author_profile: true
 [//]: #  - **Computation of the GMC-type Penalized Least-Squares via Convex Conjugate**\
 [//]: #  **X. Liu**, E. C. Chi, and D. Papp. \
 [//]: #  *In preparation*. 
+
+- **A Convex-Nonconvex Strategy for Grouped Variable Selection**\
+**X. Liu**,  A. J. Molstad, and E. C. Chi. \
+*Under review*. 
 
 - **Revisiting Convexity-Preserving Signal Recovery with the Linearly Involved GMC Penalty**\
 **X. Liu**, and E. C. Chi.\
