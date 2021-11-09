@@ -3,10 +3,10 @@ permalink: /talks/
 title: "Talks and Presentations"
 ---
 
--**A Convex-Nonconvex Strategy for Grouped Variable Selection.**\
+- **A Convex-Nonconvex Strategy for Grouped Variable Selection.**\
 *University of California, Los Angles (Statistics and Genetics Seminar), Nov. 10, 2021. Invited talk.*
 
- -**A Tutorial on CART Algorithm.**\
+ - **A Tutorial on CART Algorithm.**\
   *Duke University (Randles Lab), Nov. 9, 2021. Invited talk.*
  
 - **An Interpretable Machine Learning Model to Classify Coronary Bifurcation Lesions.**\
