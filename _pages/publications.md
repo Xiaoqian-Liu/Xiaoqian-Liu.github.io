@@ -18,7 +18,7 @@ author_profile: true
 
 - **A Convex-Nonconvex Strategy for Grouped Variable Selection**\
 **X. Liu**,  A. J. Molstad, and E. C. Chi. \
-*Under review*. [[pdf]](https://arxiv.org/abs/2111.15075)
+*Under review. [[pdf]](https://arxiv.org/abs/2111.15075)*
 
 - **Revisiting Convexity-Preserving Signal Recovery with the Linearly Involved GMC Penalty**\
 **X. Liu**, and E. C. Chi.\
