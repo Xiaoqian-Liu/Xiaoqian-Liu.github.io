@@ -7,7 +7,7 @@ title: "Talks and Presentations"
 *University of California, Los Angles (Statistics and Genetics Seminar), Nov. 10, 2021. Invited talk. [[slides]](/files/groupGMC_UCLA.pdf)*
 
  - **A Tutorial on CART Algorithm.**\
-  *Duke University (Randles Lab), Nov. 9, 2021. Invited talk.[[slides]](/files/CART.pdf)*
+  *Duke University (Randles Lab), Nov. 9, 2021. Invited talk.*
  
 - **An Interpretable Machine Learning Model to Classify Coronary Bifurcation Lesions.**\
 *The 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC),  Oct 31 -- Nov 4, 2021.*
