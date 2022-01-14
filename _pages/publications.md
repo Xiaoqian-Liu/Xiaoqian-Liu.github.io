@@ -26,8 +26,7 @@ author_profile: true
 
  - **An Interpretable Machine Learning Model to Classify Coronary Bifurcation Lesions**\
 **X. Liu**,  M. Vardhan, Q. Wen, A. Das, A. Randles, and E. C. Chi.\
-The 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), Oct. 31 - Nov. 4, 2021. 
-*Accepted*.
+In 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), pp. 4432 - 4435. IEEE, 2021.
         
 - **Sparse Principal Component Analysis with Fused Penalty**\
 B Zhang, and **X. Liu**.\
