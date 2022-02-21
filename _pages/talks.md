@@ -2,6 +2,8 @@
 permalink: /talks/
 title: "Talks and Presentations"
 ---
+- **A Convex-Nonconvex Strategy for Grouped Variable Selection.**\
+*2022 Symposium on Data Science & Statistics, June 9, 2022. Presentation*
 
 - **A Convex-Nonconvex Strategy for Grouped Variable Selection.**\
 *University of California, Los Angles (Statistics and Genetics Seminar), Nov. 10, 2021. Invited talk. [[slides]](/files/groupGMC_UCLA.pdf)*
