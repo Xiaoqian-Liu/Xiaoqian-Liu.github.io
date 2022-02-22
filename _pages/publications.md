@@ -16,7 +16,7 @@ author_profile: true
 [//]: #  **X. Liu**, E. C. Chi, and D. Papp. \
 [//]: #  *In preparation*. 
 
-- **A Better Computational Framework for L2E Regression*\
+- **A Better Computational Framework for L2E Regression**\
 **X. Liu**,  E. C. Chi, and K. L. Lange. \
 *Submitted.*
 
