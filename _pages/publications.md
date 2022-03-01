@@ -26,7 +26,7 @@ author_profile: true
 
 - **Revisiting Convexity-Preserving Signal Recovery with the Linearly Involved GMC Penalty**\
 **X. Liu**, and E. C. Chi.\
-Pattern Recognition Letters. *Accepted*.
+Pattern Recognition Letters. 2022. *In press.*
 
  - **An Interpretable Machine Learning Model to Classify Coronary Bifurcation Lesions**\
 **X. Liu**,  M. Vardhan, Q. Wen, A. Das, A. Randles, and E. C. Chi.\
