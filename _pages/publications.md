@@ -16,9 +16,9 @@ author_profile: true
 [//]: #  **X. Liu**, E. C. Chi, and D. Papp. \
 [//]: #  *In preparation*. 
 
-[//]: # - **A Better Computational Framework for L2E Regression**\
-[//]: # **X. Liu**,  E. C. Chi, and K. L. Lange. \
-[//]: # *Submitted.*
+- **A Better Computational Framework for L2E Regression**\
+**X. Liu**,  E. C. Chi, and K. L. Lange. \
+*Submitted.*
 
 - **A Convex-Nonconvex Strategy for Grouped Variable Selection**\
 **X. Liu**,  A. J. Molstad, and E. C. Chi. \
@@ -26,7 +26,7 @@ author_profile: true
 
 - **Revisiting Convexity-Preserving Signal Recovery with the Linearly Involved GMC Penalty**\
 **X. Liu**, and E. C. Chi.\
-Pattern Recognition Letters. 2022. *In press.*
+Pattern Recognition Letters. 2022. 
 
  - **An Interpretable Machine Learning Model to Classify Coronary Bifurcation Lesions**\
 **X. Liu**,  M. Vardhan, Q. Wen, A. Das, A. Randles, and E. C. Chi.\
