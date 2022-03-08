@@ -18,7 +18,7 @@ author_profile: true
 
 - **A Better Computational Framework for L2E Regression**\
 **X. Liu**,  E. C. Chi, and K. L. Lange. \
-*Submitted.*
+*Submitted. [[arXiv]](https://arxiv.org/abs/2203.02993)*
 
 - **A Convex-Nonconvex Strategy for Grouped Variable Selection**\
 **X. Liu**,  A. J. Molstad, and E. C. Chi. \
