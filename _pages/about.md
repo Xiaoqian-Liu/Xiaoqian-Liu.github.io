@@ -9,9 +9,10 @@ During my PhD studies, I was very pleased to work with Prof. [Kenneth L. Lange](
 
 **Research interests**\
 Numerical optimization\
-Statistical learning\
+Statistical machine learning\
 Non-convex penalization\
-Convex analysis
+Convex analysis\
+High-dimensional data analysis\
 
 **Contact**\
 xliu62 [at] ncsu [dot] edu\
