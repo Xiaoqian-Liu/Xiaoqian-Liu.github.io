@@ -12,7 +12,7 @@ Numerical optimization\
 Statistical machine learning\
 Non-convex penalization\
 Convex analysis\
-High-dimensional data analysis\
+High-dimensional data analysis
 
 **Contact**\
 xliu62 [at] ncsu [dot] edu\
