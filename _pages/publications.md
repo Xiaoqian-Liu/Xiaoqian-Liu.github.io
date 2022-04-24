@@ -25,15 +25,15 @@ author_profile: true
 *Submitted. [[arXiv]](https://arxiv.org/abs/2111.15075)*
 
 - **Revisiting Convexity-Preserving Signal Recovery with the Linearly Involved GMC Penalty**\
-**X. Liu**, and E. C. Chi.\
-Pattern Recognition Letters. 2022. 
+**X. Liu**, and E. C. Chi. (2022)\
+Pattern Recognition Letters, 156, 60-66. 
 
  - **An Interpretable Machine Learning Model to Classify Coronary Bifurcation Lesions**\
-**X. Liu**,  M. Vardhan, Q. Wen, A. Das, A. Randles, and E. C. Chi.\
-In 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), pp. 4432 - 4435. IEEE, 2021.
+**X. Liu**,  M. Vardhan, Q. Wen, A. Das, A. Randles, and E. C. Chi. (2021)\
+In 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), pp. 4432 - 4435. IEEE.
         
 - **Sparse Principal Component Analysis with Fused Penalty**\
-B Zhang, and **X. Liu**.\
-Statistical Research. 2019.
+B Zhang, and **X. Liu**. (2019)\
+Statistical Research, 36(4), 119-128.
 
 
