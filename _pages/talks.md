@@ -3,7 +3,7 @@ permalink: /talks/
 title: "Talks and Presentations"
 ---
 - **R for Data Science.**\
-*Biomedical Data Science Workshop & Careers Panel, UCLA. July 17, 2022. Session instructor*
+*Biomedical Data Science Workshop & Careers Panel, UCLA. July 17, 2022.*
 
 - **A Convex-Nonconvex Strategy for Grouped Variable Selection.**\
 *2022 Symposium on Data Science & Statistics, June 9, 2022. Refereed talk. [[slides]](/files/Group_GMC_SDSS.pdf)*
