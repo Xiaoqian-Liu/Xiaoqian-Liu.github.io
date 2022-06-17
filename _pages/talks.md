@@ -2,11 +2,14 @@
 permalink: /talks/
 title: "Talks and Presentations"
 ---
-- **A Convex-Nonconvex Strategy for Grouped Variable Selection.**\
-*2022 Symposium on Data Science & Statistics, June 9, 2022.*
+- **R for Data Science.**\
+*Biomedical Data Science Workshop & Careers Panel, UCLA. July 17, 2022.*
 
 - **A Convex-Nonconvex Strategy for Grouped Variable Selection.**\
-*University of California, Los Angles (Statistics and Genetics Seminar), Nov. 10, 2021. Invited talk. [[slides]](/files/groupGMC_UCLA.pdf)*
+*2022 Symposium on Data Science & Statistics, June 9, 2022. [[slides]](/files/Group_GMC_SDSS.pdf)*
+
+- **A Convex-Nonconvex Strategy for Grouped Variable Selection.**\
+*University of California, Los Angles (Statistics and Genetics Seminar), Nov. 10, 2021. Invited talk.*
 
  - **A Tutorial on CART Algorithm.**\
   *Duke University (Randles Lab), Nov. 9, 2021. Invited talk.*
