@@ -3,9 +3,11 @@ permalink: /
 title: "About me "
 ---
 
-I am a fourth-year Ph.D. student in the [Department of Statistics](https://statistics.sciences.ncsu.edu/) at North Carolina State University, advised by Prof. [Eric C. Chi](http://www.ericchi.com/). Before joining NCSU, I obtained my Master's degree in Statistics from Renmin University of China, advised by Prof. [Bo Zhang](http://stat.ruc.edu.cn/en/teacher_more.php?cid=89248&id=52). Prior to that, I obtained my Bachelor's degree in Mathematics and Applied Mathematics from China University of Mining and Technology. 
+I am a postdoctoral fellow at the University of Texas M. D. Anderson  Cancer Center working with Prof. [Wenyi Wang](https://odin.mdacc.tmc.edu/~wwang7/). 
 
-During my PhD studies, I was very pleased to work with Prof. [Kenneth L. Lange](https://people.healthsciences.ucla.edu/institution/personnel?personnel_id=45702) ,  Prof. [Boaz Nadler](https://www.weizmann.ac.il/math/Nadler/home), Prof. [David Papp](https://dpapp.math.ncsu.edu/), Prof. [Aaron J. Molstad](https://ajmolstad.github.io/) and Prof. [Amanda Randles](https://randleslab.pratt.duke.edu/people/amanda-randles) on a diverse set of projects. In 2021, I had a wonderful summer at [Argonne National Laboratory](https://www.anl.gov/mcs/lans) as a Wallace Givens Associate, working on a research project on derivative-free optimization under the supervision of Dr. [Stefan M. Wild](https://wildsm.github.io/). I continued my work with Dr. Wild as a Research Aide since Fall 2021.
+Previously, I received my Ph.D. in Statistics from [North Carolina State University ](https://statistics.sciences.ncsu.edu/), advised by Prof. [Eric C. Chi](http://www.ericchi.com/). Before joining NCSU, I obtained my Master's degree in Statistics from Renmin University of China, advised by Prof. [Bo Zhang](http://stat.ruc.edu.cn/en/teacher_more.php?cid=89248&id=52). Prior to that, I obtained my Bachelor's degree in Mathematics and Applied Mathematics from China University of Mining and Technology. 
+
+During my PhD studies, I was very pleased to work with Prof. [Kenneth L. Lange](https://people.healthsciences.ucla.edu/institution/personnel?personnel_id=45702) ,  Prof. [Boaz Nadler](https://www.weizmann.ac.il/math/Nadler/home), Prof. [David Papp](https://dpapp.math.ncsu.edu/), Prof. [Aaron J. Molstad](https://ajmolstad.github.io/) and Prof. [Amanda Randles](https://randleslab.pratt.duke.edu/people/amanda-randles) on a diverse set of projects. From Summer 2021 to Summer 2022, I had a wonderful internship at [Argonne National Laboratory](https://www.anl.gov/mcs/lans), working on a research project on derivative-free optimization under the supervision of Dr. [Stefan M. Wild](https://wildsm.github.io/). 
 
 **Research interests**\
 Numerical optimization\
@@ -15,10 +17,10 @@ Convex analysis\
 High-dimensional data analysis
 
 **Contact**\
-xliu62 [at] ncsu [dot] edu\
-2311 Stinson Dr.\
-5123 SAS Hall\
-Raleigh, NC 27606
+xliu31 [at] mdanderson [dot] org\
+1400 Pressler St.\
+MD Anderson Cancer Centeer\
+Houston, TX 77030
 
 
 
