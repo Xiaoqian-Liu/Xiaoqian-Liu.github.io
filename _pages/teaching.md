@@ -12,8 +12,9 @@ title: "Teaching"
      - *Teaching Assistant*, Fall 2018, Spring 2019, Fall 2019
      
 ### Renmin University of China
-- Stochastic Analysis
-     - *Teaching Assistant*, Spring 2016
  - Time Series Analysis
      - *Teaching Assistant*, Fall 2017
+- Stochastic Analysis
+     - *Teaching Assistant*, Spring 2016
+
 
