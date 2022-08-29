@@ -2,6 +2,10 @@
 permalink: /talks/
 title: "Talks and Presentations"
 ---
+
+- **A Convex-Nonconvex Strategy for Grouped Variable Selection**\
+*Computational and Methodological Statistics (CMStatistics), Dec. 17-19, 2022. Invited session talk.*
+
 - **R for Data Science**\
 *Biomedical Data Science Workshop & Careers Panel, UCLA. July 17, 2022.*
 
