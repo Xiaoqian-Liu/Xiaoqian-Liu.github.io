@@ -13,7 +13,7 @@ Numerical optimization\
 High-dimensional statistics\
 Machine learning\
 Convex-nonconvex regularization\
-Applications in cancer genomic data
+Applications in cancer genomics
 
 **Contact**\
 xliu31 [at] mdanderson [dot] org\
