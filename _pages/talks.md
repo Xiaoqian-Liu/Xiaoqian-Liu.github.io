@@ -4,6 +4,9 @@ title: "Talks and Presentations"
 ---
 
 - **A Convex-Nonconvex Strategy for Grouped Variable Selection**\
+*Eastern North American Region International Biometric Society Spring Meeting. March 19-22, 2023. Presentation.*
+
+- **A Convex-Nonconvex Strategy for Grouped Variable Selection**\
 *Computational and Methodological Statistics (CMStatistics), Dec. 17-19, 2022. Invited session talk.*
 
 - **R for Data Science**\
