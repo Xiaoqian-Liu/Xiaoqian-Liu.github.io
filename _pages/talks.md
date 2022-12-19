@@ -7,13 +7,16 @@ title: "Talks and Presentations"
 *Eastern North American Region International Biometric Society Spring Meeting. March 19-22, 2023. Presentation.*
 
 - **A Convex-Nonconvex Strategy for Grouped Variable Selection**\
-*Computational and Methodological Statistics (CMStatistics), Dec. 17-19, 2022. Invited session talk.*
+*Computational and Methodological Statistics (CMStatistics), Dec. 17-19, 2022. Invited session talk. [[slides]](/files/Group_GMC_CMStatistics.pdf)*
 
+ - **A Tutorial on boosting methods**\
+  *Duke University (Randles Lab), Nov. 17, 2022. Invited talk.*
+  
 - **R for Data Science**\
 *Biomedical Data Science Workshop & Careers Panel, UCLA. July 17, 2022.*
 
 - **A Convex-Nonconvex Strategy for Grouped Variable Selection**\
-*2022 Symposium on Data Science & Statistics, June 9, 2022. Refereed talk. [[slides]](/files/Group_GMC_SDSS.pdf)*
+*2022 Symposium on Data Science & Statistics, June 9, 2022. Refereed talk.*
 
 - **A Convex-Nonconvex Strategy for Grouped Variable Selection**\
 *University of California, Los Angles (Statistics and Genetics Seminar), Nov. 10, 2021. Invited talk.*
