@@ -9,7 +9,7 @@ title: "Talks and Presentations"
 - **A Convex-Nonconvex Strategy for Grouped Variable Selection**\
 *Computational and Methodological Statistics (CMStatistics), Dec. 17-19, 2022. Invited session talk. [[slides]](/files/Group_GMC_CMStatistics.pdf)*
 
- - **A Tutorial on boosting methods**\
+ - **A Tutorial on Boosting Methods**\
   *Duke University (Randles Lab), Nov. 17, 2022. Invited talk.*
   
 - **R for Data Science**\
