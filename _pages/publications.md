@@ -22,7 +22,7 @@ author_profile: true
 
 - **A Sharper Computational Tool for L2E Regression**\
 **X. Liu**,  E. C. Chi, and K. L. Lange. (2022) \
-Technometrics, 1-10, 2022. 
+Technometrics, 1-10. 
 
 
 - **Revisiting Convexity-Preserving Signal Recovery with the Linearly Involved GMC Penalty**\
