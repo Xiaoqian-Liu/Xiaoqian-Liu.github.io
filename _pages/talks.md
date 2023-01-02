@@ -7,7 +7,7 @@ title: "Talks and Presentations"
 *Eastern North American Region International Biometric Society Spring Meeting. March 19-22, 2023. Presentation.*
 
 - **A Majorization-Minimization Gauss-Newton Method for 1-Bit Matrix Completion**\
-*UF Statistics 2023 Winter Workshop. Jan. 13, 2023. Poster presentation.*
+*UF Statistics 2023 Winter Workshop. Jan. 13-14, 2023. Poster presentation.*
 
 - **A Convex-Nonconvex Strategy for Grouped Variable Selection**\
 *Computational and Methodological Statistics (CMStatistics), Dec. 17-19, 2022. Invited session talk. [[slides]](/files/Group_GMC_CMStatistics.pdf)*
