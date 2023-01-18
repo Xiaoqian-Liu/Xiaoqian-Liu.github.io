@@ -11,6 +11,10 @@ main:
     
   - title: "Software"
     url: /software/
+
+    - title: "Posts"
+    url: /posts/
+
   #- title: "Portfolio"
   #  url: /portfolio/
         
