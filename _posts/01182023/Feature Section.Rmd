@@ -2,14 +2,17 @@
 title: "Feature Selection"
 author: "Xiaoqian Liu"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
-bibliography: feature-selection.bib
-output: 
+output:
+  pdf_document:
+    toc: yes
+    toc_depth: '3'
   html_document:
-    toc: true # table of content true
-    toc_depth: 3  # upto three depths of headings (specified by #, ## and ###)
-    number_sections: true  ## if you want number sections at each table header
-    theme: united  # many options for theme, this one is my favorite.
-    highlight: tango  # specifies the syntax highlighting style
+    highlight: tango
+    number_sections: yes
+    theme: united
+    toc: yes
+    toc_depth: 3
+bibliography: feature-selection.bib
 biblio-style: unsrt
 ---
 ```{r setup, include=FALSE}
