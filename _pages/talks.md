@@ -4,7 +4,7 @@ title: "Talks and Presentations"
 ---
 
 - **A Convex-Nonconvex Strategy for Grouped Variable Selection**\
-*Eastern North American Region International Biometric Society Spring Meeting. March 19-22, 2023. Presentation.*
+*Eastern North American Region International Biometric Society Spring Meeting. March 19-22, 2023. Oral-contributed presentation.*
 
 - **A Majorization-Minimization Gauss-Newton Method for 1-Bit Matrix Completion**\
 *UF Statistics 2023 Winter Workshop. Jan. 13-14, 2023. Poster presentation.*
