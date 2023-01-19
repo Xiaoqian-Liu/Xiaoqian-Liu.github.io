@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Posts"
-permalink: /posts/01182023/
+permalink: /_posts/
 author_profile: true
 ---
 
