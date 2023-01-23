@@ -1,7 +1,7 @@
 ---
 title: "Feature Selection"
 author: "Xiaoqian Liu"
-date: "`r format(Sys.time(), '%B %d, %Y')`"
+date: "January 18, 2023"
 output:
   html_document:
     highlight: tango
