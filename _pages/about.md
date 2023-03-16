@@ -18,7 +18,7 @@ Applications in cancer genomics
 **Contact**\
 xliu31 [at] mdanderson [dot] org\
 1400 Pressler St.\
-MD Anderson Cancer Centeer\
+MD Anderson Cancer Center\
 Houston, TX 77030
 
 
