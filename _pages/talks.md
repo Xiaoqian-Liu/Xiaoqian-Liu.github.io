@@ -3,6 +3,10 @@ permalink: /talks/
 title: "Talks and Presentations"
 ---
 
+
+- **A Majorization-Minimization Gauss-Newton Method for 1-Bit Matrix Completion**\
+*Statistical Foundations of Data Science and their Applications: A conference in celebrationof Jianqing Fan’s 60th Birthday. May 8-10, 2023. Poster presentation.*
+
 - **A Convex-Nonconvex Strategy for Grouped Variable Selection**\
 *Eastern North American Region International Biometric Society Spring Meeting. March 19-22, 2023. Oral-contributed presentation.*
 
