@@ -3,6 +3,8 @@ permalink: /talks/
 title: "Talks and Presentations"
 ---
 
+- **A Sharper Computational Tool for L2E Regression**\
+*The 65th Annual Fall Technical Conference. Oct. 4-6, 2023. Invited talk.*
 
 - **A Majorization-Minimization Gauss-Newton Method for 1-Bit Matrix Completion**\
 *Statistical Foundations of Data Science and their Applications: A conference in celebrationof Jianqing Fan’s 60th Birthday. May 8-10, 2023. Poster presentation.*
