@@ -13,6 +13,7 @@ While I try to carefully prepare these materials, I might make mistakes. Please 
 
 - [[Feature Selection -- pt. I]](/files/FeatureSection.html): Wrapper methods & penalization methods -- pt.I
 
+# Miscellanea
 
 
 
