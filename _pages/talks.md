@@ -7,22 +7,29 @@ title: "Talks and Presentations"
 *The 65th Annual Fall Technical Conference. Oct. 4-6, 2023. Invited talk.*
 
 - **A Majorization-Minimization Gauss-Newton Method for 1-Bit Matrix Completion**\
-*Statistical Foundations of Data Science and their Applications: A conference in celebrationof Jianqing Fan’s 60th Birthday. May 8-10, 2023. Poster presentation.*
+*2023 Joint Statistical Meetings. Aug. 8, 2023. Contributed paper presentation.*
 
 - **A Convex-Nonconvex Strategy for Grouped Variable Selection**\
-*Eastern North American Region International Biometric Society Spring Meeting. March 19-22, 2023. Oral-contributed presentation.*
+*The 36th New England Statistics Symposium. June 3-6, 2023. Invited talk*
 
 - **A Majorization-Minimization Gauss-Newton Method for 1-Bit Matrix Completion**\
-*UF Statistics 2023 Winter Workshop. Jan. 13-14, 2023. Poster presentation.*
+*Statistical Foundations of Data Science and their Applications: A conference in celebration
+of Jianqing Fan’s 60th Birthday. May 9, 2023. Poster presentation.*
 
 - **A Convex-Nonconvex Strategy for Grouped Variable Selection**\
-*Computational and Methodological Statistics (CMStatistics), Dec. 17-19, 2022. Invited session talk. [[slides]](/files/Group_GMC_CMStatistics.pdf)*
+*Eastern North American Region International Biometric Society Spring Meeting. March 21, 2023. Oral-contributed presentation.*
+
+- **A Majorization-Minimization Gauss-Newton Method for 1-Bit Matrix Completion**\
+*UF Statistics 2023 Winter Workshop. Jan. 13, 2023. Poster presentation.*
+
+- **A Convex-Nonconvex Strategy for Grouped Variable Selection**\
+*Computational and Methodological Statistics (CMStatistics), Dec. 19, 2022. Invited session talk. [[slides]](/files/Group_GMC_CMStatistics.pdf)*
 
  - **A Tutorial on Boosting Methods**\
   *Duke University (Randles Lab), Nov. 17, 2022. Invited talk.*
   
 - **R for Data Science**\
-*Biomedical Data Science Workshop & Careers Panel, UCLA. July 17, 2022.*
+*Biomedical Data Science Workshop & Careers Panel, UCLA. July 17, 2022. Workshop instructor*
 
 - **A Convex-Nonconvex Strategy for Grouped Variable Selection**\
 *2022 Symposium on Data Science & Statistics, June 9, 2022. Refereed talk.*
@@ -34,13 +41,13 @@ title: "Talks and Presentations"
   *Duke University (Randles Lab), Nov. 9, 2021. Invited talk.*
  
 - **An Interpretable Machine Learning Model to Classify Coronary Bifurcation Lesions**\
-*The 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC),  Oct 31 -- Nov 4, 2021.*
+*The 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC),  Oct 31 -- Nov 4, 2021. Presentation*
 
 - **Randomized Projections in Derivative-Free Optimization** \
-*2021 Summer Argonne Student Symposium (SASSy), July 30, 2021.*
+*2021 Summer Argonne Student Symposium (SASSy), July 30, 2021. Presentation*
 
 - **Revisiting Convexity-Preserving  Signal Recovery  with  the Linearly Involved GMC Penalty**\
-*International Chinese Statistical Association (ICSA) 2020 Applied Statistics Symposium, Dec.13 -- 16, 2020.*
+*International Chinese Statistical Association (ICSA) 2020 Applied Statistics Symposium, Dec.14, 2020. E-poster presentation*
 
 - **Revisiting Convexity-Preserving  Signal  Recovery  with  the Linearly Involved GMC Penalty** \
-*Women in Statistics and Data Science Virtual Conference, Sept.30 -- Oct.2, 2020.*
+*Women in Statistics and Data Science Virtual Conference, Oct. 1, 2020. E-poster presentation* 
