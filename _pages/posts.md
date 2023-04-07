@@ -1,6 +1,7 @@
 ---
 layout: archive
 permalink: /posts/
+title:" "
 author_profile: true
 ---
 
