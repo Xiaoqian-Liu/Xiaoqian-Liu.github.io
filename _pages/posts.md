@@ -1,7 +1,6 @@
 ---
 layout: archive
 permalink: /posts/
-title: "Posts"
 author_profile: true
 ---
 
@@ -15,6 +14,7 @@ While I try to carefully prepare these materials, I might make mistakes. Please 
 
 # Miscellanea
 
+- [[CUTEst installation and MATLAB interface]](/files/CUTEst installation and MATLAB interface.pdf): Instructions on installing CUTEst on Linux and using it in MATLAB.
 
 
 
