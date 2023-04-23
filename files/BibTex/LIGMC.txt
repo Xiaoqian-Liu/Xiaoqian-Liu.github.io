@@ -1,0 +1,9 @@
+@article{liu2022revisiting,
+  title={Revisiting convexity-preserving signal recovery with the linearly involved GMC penalty},
+  author={Liu, Xiaoqian and Chi, Eric C},
+  journal={Pattern Recognition Letters},
+  volume={156},
+  pages={60--66},
+  year={2022},
+  publisher={Elsevier}
+}
