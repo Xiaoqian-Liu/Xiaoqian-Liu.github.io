@@ -11,12 +11,15 @@ I received my PhD degree in Statistics from [North Carolina State University](ht
 
 During my PhD studies, I was very pleased to work with Prof. [Kenneth L. Lange](https://people.healthsciences.ucla.edu/institution/personnel?personnel_id=45702) ,  Prof. [Boaz Nadler](https://www.weizmann.ac.il/math/Nadler/home), Prof. [Aaron J. Molstad](https://ajmolstad.github.io/) and Prof. [Amanda Randles](https://randleslab.pratt.duke.edu/people/amanda-randles) on a diverse set of projects. From Summer 2021 to Summer 2022, I had a wonderful internship at [Argonne National Laboratory](https://www.anl.gov/mcs/lans), working on a research project on derivative-free optimization under the supervision of Dr. [Stefan M. Wild](https://wildsm.github.io/) (now at Berkeley Lab). 
 
-**Research interests**\
-Numerical optimization\
-High-dimensional statistics\
-Machine learning\
-Convex-nonconvex regularization\
-Applications in cancer genomics
+[//]: #**Research interests**\
+[//]: #Numerical optimization\
+[//]: #High-dimensional statistics\
+[//]: #Machine learning\
+[//]: #Convex-nonconvex regularization\
+[//]: #Applications in cancer genomics
+
+#**Recent news**\
+- Mar. 2023: Our L2E paper was selected to present at the Technometrics session at [[the 65th Annual Fall Technical Conference]](https://falltechnicalconference.org/) in Oct. 2023\
 
 **Contact**\
 xliu31 [at] mdanderson [dot] org\
