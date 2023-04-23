@@ -18,7 +18,7 @@ During my PhD studies, I was very pleased to work with Prof. [Kenneth L. Lange](
 [//]: #Convex-nonconvex regularization\
 [//]: #Applications in cancer genomics
 
-# News
+##  News
 
 - **Mar. 2023:** Our [L2E paper](https://www.tandfonline.com/doi/full/10.1080/00401706.2022.2118172) was selected to present at [The 65th Annual Fall Technical Conference](https://falltechnicalconference.org/) in Oct. 2023.
 - **Feb. 2023:** Joint work with Stefan Wild and Kwassi Joseph Dzahini on zeroth-order optimization won the Best Poster Prize at [2023 SIAM Conference on Computational Science and Engineering](https://www.siam.org/conferences/cm/conference/cse23). 
