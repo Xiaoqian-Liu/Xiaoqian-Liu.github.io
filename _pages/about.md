@@ -18,8 +18,10 @@ During my PhD studies, I was very pleased to work with Prof. [Kenneth L. Lange](
 [//]: #Convex-nonconvex regularization\
 [//]: #Applications in cancer genomics
 
-**Recent news**\
-- Mar. 2023: Our [L2E paper](https://www.tandfonline.com/doi/full/10.1080/00401706.2022.2118172) was selected to present at [the 65th Annual Fall Technical Conference](https://falltechnicalconference.org/) in Oct. 2023\
+**Recent news**
+
+- Mar. 2023: Our [L2E paper](https://www.tandfonline.com/doi/full/10.1080/00401706.2022.2118172) was selected to present at [the 65th Annual Fall Technical Conference](https://falltechnicalconference.org/) in Oct. 2023.
+
 
 **Contact**\
 xliu31 [at] mdanderson [dot] org\
