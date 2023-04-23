@@ -24,11 +24,11 @@ During my PhD studies, I was very pleased to work with Prof. [Kenneth L. Lange](
 - **Feb. 2023:** Joint work with Stefan Wild and Kwassi Joseph Dzahini on zeroth-order optimization won the Best Poster Prize at [2023 SIAM Conference on Computational Science and Engineering](https://www.siam.org/conferences/cm/conference/cse23). 
 - **Jan. 2023:** I won the [UF Statistics 2023 Winter Workshop](https://informatics.research.ufl.edu/event/statistics-annual-winter-workshop-2023/) Travel Award and will be presenting a work on 1-bit matrix completion.
 
-**Contact**\
-xliu31 [at] mdanderson [dot] org\
-1400 Pressler St.\
-MD Anderson Cancer Center\
-Houston, TX 77030
+[//]: #**Contact**\
+[//]: #xliu31 [at] mdanderson [dot] org\
+[//]: #1400 Pressler St.\
+[//]: #MD Anderson Cancer Center\
+[//]: #Houston, TX 77030
 
 
 
