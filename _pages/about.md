@@ -3,7 +3,7 @@ permalink: /
 title: "About me "
 ---
 
-I am a postdoctoral fellow at the University of Texas MD Anderson  Cancer Center, working with Prof. [Wenyi Wang](https://odin.mdacc.tmc.edu/~wwang7/). 
+I am a postdoctoral fellow at The University of Texas MD Anderson  Cancer Center, working with Prof. [Wenyi Wang](https://odin.mdacc.tmc.edu/~wwang7/). 
 I received my PhD degree in Statistics from [North Carolina State University](https://statistics.sciences.ncsu.edu/) in 2022, advised by Prof. [Eric C. Chi](http://www.ericchi.com/) (now at Rice). I am broadly interested in numerical optimization, machine learning, high-dimensional statistics, and their applications in cancer genomics. 
 
 [//]: # Before joining NCSU, I obtained my Master's degree in Statistics from Renmin University of China, advised by Prof. [Bo Zhang](http://stat.ruc.edu.cn/en/teacher_more.php?cid=89248&id=52). 
@@ -20,7 +20,7 @@ During my PhD studies, I was very pleased to work with Prof. [Kenneth L. Lange](
 
 **News**
 
-- **Mar. 2023:** Our [L2E paper](https://www.tandfonline.com/doi/full/10.1080/00401706.2022.2118172) was selected to present at [the 65th Annual Fall Technical Conference](https://falltechnicalconference.org/) in Oct. 2023.
+- **Mar. 2023:** Our [L2E paper](https://www.tandfonline.com/doi/full/10.1080/00401706.2022.2118172) was selected to present at [The 65th Annual Fall Technical Conference](https://falltechnicalconference.org/) in Oct. 2023.
 
 
 **Contact**\
