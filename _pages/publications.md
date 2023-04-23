@@ -35,10 +35,10 @@ Pattern Recognition Letters, 156, 60-66.
  - **An Interpretable Machine Learning Model to Classify Coronary Bifurcation Lesions**\
 **X. Liu**,  M. Vardhan, Q. Wen, A. Das, A. Randles, and E. C. Chi. (2021)\
 In 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), pp. 4432-4435. IEEE.
-*[[BibTex]](/files/BibTex/EMBC.txt)*
+*[[BibTex]](/files/BibTex/EMBC.txt) [[link]](https://ieeexplore.ieee.org/document/9631082)*
         
-- **Sparse Principal Component Analysis with Fused Penalty**\
-B Zhang, and **X. Liu**. (2019)\
-Statistical Research, 36(4), 119-128.
+[//]: # - **Sparse Principal Component Analysis with Fused Penalty**\
+[//]: # B Zhang, and **X. Liu**. (2019)\
+[//]: # Statistical Research, 36(4), 119-128.
 
 
