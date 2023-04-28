@@ -16,6 +16,11 @@ author_profile: true
 [//]: #  **X. Liu**, E. C. Chi, and D. Papp. \
 [//]: #  *In preparation*. 
 
+- ** A Majorization-Minimization Gauss-Newton Method for 1-Bit Matrix Completion.**\
+**X. Liu**,  X. Han, E. C. Chi, and B. Nadler. \
+*Submitted. [[arXiv]](https://arxiv.org/abs/2304.13940) [[code]](https://github.com/Xiaoqian-Liu/MMGN)*
+
+
 - **A Convex-Nonconvex Strategy for Grouped Variable Selection**\
 **X. Liu**,  A. J. Molstad, and E. C. Chi. \
 *Submitted. [[BibTex]](/files/BibTex/grGMC.txt) [[arXiv]](https://arxiv.org/abs/2111.15075)*
