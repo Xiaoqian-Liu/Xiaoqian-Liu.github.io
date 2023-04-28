@@ -17,6 +17,7 @@ author_profile: true
 [//]: #  *In preparation*. 
 
 
+
 - **A Majorization-Minimization Gauss-Newton Method for 1-Bit Matrix Completion.**\
 **X. Liu**,  X. Han, E. C. Chi, and B. Nadler. \
 *Submitted. [[arXiv]](https://arxiv.org/abs/2304.13940) [[code]](https://github.com/Xiaoqian-Liu/MMGN)*
