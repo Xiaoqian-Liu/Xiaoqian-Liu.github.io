@@ -12,6 +12,7 @@ I started a series of Stats/ML tutorials at our lab meeting to discuss some topi
 While I try to carefully prepare these materials, I might make mistakes. Please feel free to reach out if you spot an error or a doubtful statement. 
 
 - [[Feature Selection -- pt. I]](/files/FeatureSection.html): Wrapper methods & penalization methods -- pt.I
+- [[R's C Interface]](/files/R-C-tutorial.html): Call C functions from R & build an R package with C backend code.
 
 # Miscellanea
 
