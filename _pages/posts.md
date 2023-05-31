@@ -13,7 +13,7 @@ While I try to carefully prepare these materials, I might make mistakes. Please 
 
 - [[Feature Selection -- pt. I]](/files/FeatureSection.html): Wrapper methods & penalization methods -- pt.I
 
-- [[R's C Interface]](/files/R-C-tutorial.html): Call C functions from R & build an R package with C backend code.
+- [[R's C Interface]](/files/RCtutorial.html): Call C functions from R & build an R package with C backend code.
 
 # Miscellanea
 
