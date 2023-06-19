@@ -2,7 +2,6 @@
 title: "Feature Selection - II"
 author: "Xiaoqian Liu"
 date: "June 19, 2023"
-bibliography: feature-selection2.bib
 output: 
   html_document:
     toc: true # table of content true
