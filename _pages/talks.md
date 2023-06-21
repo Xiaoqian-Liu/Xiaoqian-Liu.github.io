@@ -17,7 +17,7 @@ title: "Talks and Presentations"
 of Jianqing Fan’s 60th Birthday. May 9, 2023. Poster presentation.*
 
 - **A Convex-Nonconvex Strategy for Grouped Variable Selection**\
-*Eastern North American Region International Biometric Society Spring Meeting. March 21, 2023. Oral-contributed presentation.*
+*Eastern North American Region International Biometric Society Spring Meeting. Mar. 21, 2023. Oral-contributed presentation.*
 
 - **A Majorization-Minimization Gauss-Newton Method for 1-Bit Matrix Completion**\
 *UF Statistics 2023 Winter Workshop. Jan. 13, 2023. Poster presentation.*
