@@ -10,7 +10,7 @@ title: "Talks and Presentations"
 *2023 Joint Statistical Meetings. Aug. 8, 2023. Contributed paper presentation.*
 
 - **A Convex-Nonconvex Strategy for Grouped Variable Selection**\
-*The 36th New England Statistics Symposium. June 3-6, 2023. Invited talk [[slides]](/files/Group_GMC_NESS.pdf).*
+*The 36th New England Statistics Symposium. June 6, 2023. Invited talk [[slides]](/files/Group_GMC_NESS.pdf).*
 
 - **A Majorization-Minimization Gauss-Newton Method for 1-Bit Matrix Completion**\
 *Statistical Foundations of Data Science and their Applications: A conference in celebration
