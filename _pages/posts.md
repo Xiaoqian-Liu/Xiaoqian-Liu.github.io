@@ -11,9 +11,9 @@ I started a series of Stats/ML tutorials at our lab meeting to discuss some topi
 
 While I try to carefully prepare these materials, I might make mistakes. Please feel free to reach out if you spot an error or a doubtful statement. 
 
-- [[Feature Selection -- pt. I]](/files/FeatureSection.html): Wrapper methods & penalization methods 
+- [[Feature Selection -- pt. I]](/files/FeatureSection.html): Wrapper methods & penalization methods. 
 
-- [[Feature Selection -- pt. II]](/files/FeatureSection2.html): Penalization methods (cont.)
+- [[Feature Selection -- pt. II]](/files/FeatureSection2.html): Penalization methods (cont.).
 
 - [[R's C Interface]](/files/RCtutorial.html): Call C functions from R & build an R package with C backend code.
 
@@ -23,9 +23,9 @@ While I try to carefully prepare these materials, I might make mistakes. Please 
 
 # Resources
 
-- [[Convex Optimization Course]](https://web.stanford.edu/class/ee364a/lectures.html): by Professor Stephen Boyd, Stanford University
+- [[Convex Optimization Course]](https://web.stanford.edu/class/ee364a/lectures.html): by Professor Stephen Boyd, Stanford University.
 
-- [[Blog's on Applied Math and Linear Algebra]](https://nhigham.com/blog/): by Professor Nicholas J. Higham, The University of Manchester
+- [[Blog's on Applied Math and Linear Algebra]](https://nhigham.com/blog/): by Professor Nicholas J. Higham, The University of Manchester.
 
 
 
