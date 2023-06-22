@@ -23,9 +23,9 @@ While I try to carefully prepare these materials, I might make mistakes. Please 
 
 # Resources
 
-- [[Convex Optimization Course]](https://web.stanford.edu/class/ee364a/lectures.html)
+- [[Convex Optimization Course]](https://web.stanford.edu/class/ee364a/lectures.html): by Professor Stephen Boyd, Stanford University
 
-- [[Nick Higham's posts on Applied Math and Linear Algebra]](https://nhigham.com/index-of-what-is-articles/)
+- [[Nick Higham's Posts on Applied Math and Linear Algebra]](https://nhigham.com/index-of-what-is-articles/): 
 
 
 
