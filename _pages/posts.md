@@ -21,6 +21,12 @@ While I try to carefully prepare these materials, I might make mistakes. Please 
 
 - [[CUTEst installation and MATLAB interface]](/files/CUTEst installation and MATLAB interface.pdf): Instructions on installing CUTEst on Linux and using it in MATLAB.
 
+# Resources
+
+- [[Convex Optimization Course]](https://nhigham.com/index-of-what-is-articles/)
+
+- [[Nick Higham's posts on Applied Math and Linear Algebra]](https://nhigham.com/index-of-what-is-articles/)
+
 
 
 
