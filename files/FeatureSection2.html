@@ -233,7 +233,7 @@ P_{\lambda}(\boldsymbol \beta) = \lambda ( \alpha \lVert \boldsymbol \beta \rVer
 Lasso and its variants are convex penalties and tend to underestimate large magnitude components of the coefficients. Alternatives to mitigate such estimation bias are folded concave penalties. One influential example is the smoothly clipped absolute deviations (SCAD) penalty:
 <span class="math display">\[\begin{equation}
 \tag{2.4}
-P_{\lambda}(|x|) = 
+P_{\lambda}(x) = 
 \begin{cases}
 \lambda |x|,  ~~~~~~~~~~~~~~ \text{if}~ |x| \leq \lambda,\\
 \frac{2\gamma \lambda |x| -x^2-\lambda^2}{2(\gamma-1)}, ~~ \text{if}~ \lambda &lt; |x| &lt; \gamma \lambda, \\
@@ -250,7 +250,7 @@ P_{\lambda}(|x|) =
 <p>A penalty's derivative represents its penalization rate. For SCAD, its derivative is</p>
 <span class="math display">\[\begin{equation}
 \tag{2.5}
-P'_{\lambda}(|x|) = 
+P'_{\lambda}(x) = 
 \begin{cases}
 \lambda,  ~~~~~~~~~ \text{if}~ |x| \leq \lambda,\\
 \frac{\gamma\lambda - |x|}{\gamma-1}, ~~ \text{if}~ \lambda &lt; |x| &lt; \gamma \lambda, \\
@@ -264,7 +264,7 @@ P'_{\lambda}(|x|) =
 <p>The MCP (minimax concave penalty) is another example of folded concave penalty. It is given by</p>
 <span class="math display">\[\begin{equation}
 \tag{2.6}
-P_{\lambda}(|x|) = 
+P_{\lambda}(x) = 
 \begin{cases}
 \lambda |x| - \frac{x^2}{2\gamma},  ~~~ \text{if}~ |x| \leq \gamma \lambda,\\
 \frac{1}{2}\gamma\lambda^2, ~~~~~~~~~ \text{if}~ |x| &gt; \gamma \lambda,
@@ -273,9 +273,9 @@ P_{\lambda}(|x|) =
 <p>for some <span class="math inline">\(\gamma&gt;1\)</span>. <span class="math inline">\(\gamma=3\)</span> is often used. And its derivative is</p>
 <span class="math display">\[\begin{equation}
 \tag{2.7}
-P_{\lambda}(|x|) = 
+P_{\lambda}(x) = 
 \begin{cases}
-\lambda  - \frac{|x|}{\gamma},  ~~~ \text{if}~ |x| \leq \gamma \lambda,\\
+(\lambda  - \frac{|x|}{\gamma})\text{sign}(x),  ~~~ \text{if}~ |x| \leq \gamma \lambda,\\
 0, ~~~~~~~~~~~ \text{if}~ |x| &gt; \gamma \lambda.
 \end{cases}
 \end{equation}\]</span>

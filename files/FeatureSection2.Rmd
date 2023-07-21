@@ -82,7 +82,7 @@ Benefits of adding the ridge penalty to Lasso:
 Lasso and its variants are convex penalties and tend to underestimate large magnitude components of the coefficients. Alternatives to mitigate such estimation bias are folded concave penalties. One influential example is the smoothly clipped absolute deviations (SCAD) penalty:
 \begin{equation}
 \tag{2.4}
-P_{\lambda}(|x|) = 
+P_{\lambda}(x) = 
 \begin{cases}
 \lambda |x|,  ~~~~~~~~~~~~~~ \text{if}~ |x| \leq \lambda,\\
 \frac{2\gamma \lambda |x| -x^2-\lambda^2}{2(\gamma-1)}, ~~ \text{if}~ \lambda < |x| < \gamma \lambda, \\
@@ -103,7 +103,7 @@ A penalty's derivative represents its penalization rate. For SCAD, its derivativ
 
 \begin{equation}
 \tag{2.5}
-P'_{\lambda}(|x|) = 
+P'_{\lambda}(x) = 
 \begin{cases}
 \lambda,  ~~~~~~~~~ \text{if}~ |x| \leq \lambda,\\
 \frac{\gamma\lambda - |x|}{\gamma-1}, ~~ \text{if}~ \lambda < |x| < \gamma \lambda, \\
@@ -121,7 +121,7 @@ The MCP (minimax concave penalty) is another example of folded concave penalty. 
 
 \begin{equation}
 \tag{2.6}
-P_{\lambda}(|x|) = 
+P_{\lambda}(x) = 
 \begin{cases}
 \lambda |x| - \frac{x^2}{2\gamma},  ~~~ \text{if}~ |x| \leq \gamma \lambda,\\
 \frac{1}{2}\gamma\lambda^2, ~~~~~~~~~ \text{if}~ |x| > \gamma \lambda,
@@ -132,9 +132,9 @@ for some $\gamma>1$. $\gamma=3$ is often used. And its derivative is
 
 \begin{equation}
 \tag{2.7}
-P_{\lambda}(|x|) = 
+P_{\lambda}(x) = 
 \begin{cases}
-\lambda  - \frac{|x|}{\gamma},  ~~~ \text{if}~ |x| \leq \gamma \lambda,\\
+(\lambda  - \frac{|x|}{\gamma})\text{sign}(x),  ~~~ \text{if}~ |x| \leq \gamma \lambda,\\
 0, ~~~~~~~~~~~ \text{if}~ |x| > \gamma \lambda.
 \end{cases}
 \end{equation}
