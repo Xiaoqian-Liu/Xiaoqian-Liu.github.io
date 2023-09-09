@@ -25,7 +25,7 @@ author_profile: true
 
 - **A Convex-Nonconvex Strategy for Grouped Variable Selection**\
 **X. Liu**,  A. J. Molstad, and E. C. Chi. \
-*Submitted. [[BibTex]](/files/BibTex/grGMC.txt) [[arXiv]](https://arxiv.org/abs/2111.15075) [[code]](https://github.com/Xiaoqian-Liu/GMC)*
+*The Electronic Journal of Statistics (accepted). [[BibTex]](/files/BibTex/grGMC.txt) [[arXiv]](https://arxiv.org/abs/2111.15075) [[code]](https://github.com/Xiaoqian-Liu/GMC)*
 
 - **A Sharper Computational Tool for L2E Regression**\
 **X. Liu**,  E. C. Chi, and K. L. Lange. (2023) \
