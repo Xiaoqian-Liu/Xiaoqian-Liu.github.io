@@ -21,6 +21,7 @@ Outside of research, I love brisk walking, fitness classes, and yoga (particular
 [//]: #Applications in cancer genomics
 
 ##  News
+- **Sept. 2023:** Our paper [A Convex-Nonconvex Strategy for Grouped Variable Selection ](https://arxiv.org/abs/2111.15075) was accepted by The Electronic Journal of Statistics (EJS)!
 - **Apr. 2023:** Our paper on [1-bit matrix completion](https://arxiv.org/abs/2304.13940) is now on arXiv!
 - **Mar. 2023:** Our [L2E paper](https://www.tandfonline.com/doi/full/10.1080/00401706.2022.2118172) was selected to present at [The 65th Annual Fall Technical Conference](https://falltechnicalconference.org/) in Oct. 2023.
 - **Feb. 2023:** Joint work with Stefan Wild and Kwassi Joseph Dzahini on zeroth-order optimization won the Best Poster Prize at [2023 SIAM Conference on Computational Science and Engineering](https://www.siam.org/conferences/cm/conference/cse23). 
