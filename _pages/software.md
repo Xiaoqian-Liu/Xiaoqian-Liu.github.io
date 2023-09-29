@@ -13,7 +13,7 @@ author_profile: true
 - [GMC](https://github.com/Xiaoqian-Liu/GMC): An R Package for GMC penalization methods for (grouped) variable selection in linear regression\
      - *[Introduction to the GMC Package](/files/Intro-to-GMC.html)*
      
- - [GMC](https://github.com/Xiaoqian-Liu/MMGN): MATLAB/R implementation of binary (1-bit) matrix completion\
+ - [MMGN](https://github.com/Xiaoqian-Liu/MMGN): MATLAB/R implementation of binary (1-bit) matrix completion\
 
 
 
