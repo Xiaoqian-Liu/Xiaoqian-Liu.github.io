@@ -4,7 +4,7 @@ title: "Talks and Presentations"
 ---
 
 - **A Sharper Computational Tool for L2E Regression**\
-*The 65th Annual Fall Technical Conference. Oct. 5, 2023. Invited talk.*
+*The 65th Annual Fall Technical Conference. Oct. 5, 2023. Invited talk [[slides]](/files/L2E_FTC2023.pdf).*
 
 - **A Majorization-Minimization Gauss-Newton Method for 1-Bit Matrix Completion**\
 *2023 Joint Statistical Meetings. Aug. 8, 2023. Contributed paper presentation.*
