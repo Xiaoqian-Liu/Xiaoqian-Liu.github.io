@@ -4,7 +4,7 @@ title: "About me "
 ---
 
 I am a postdoctoral fellow at The University of Texas MD Anderson  Cancer Center, working with Prof. [Wenyi Wang](https://odin.mdacc.tmc.edu/~wwang7/). 
-I received my PhD degree in Statistics from [North Carolina State University](https://statistics.sciences.ncsu.edu/) in 2022, advised by Prof. [Eric C. Chi](http://www.ericchi.com/) (now at Rice University). I am broadly interested in numerical optimization, machine learning, high-dimensional statistics, and their applications in cancer omics data analysis. 
+I received my PhD degree in Statistics from [North Carolina State University](https://statistics.sciences.ncsu.edu/) in 2022, advised by Prof. [Eric C. Chi](http://www.ericchi.com/) (now at Rice University). I am broadly interested in numerical optimization, statistical computing, machine learning, structured estimation, convex-nonconvex regularization, and robust statistics. Recently, I am especially interested in cancer omics data analysis, including genomic diversity and transcriptomic heterogeneity. 
 
 [//]: # Before joining NCSU, I obtained my Master's degree in Statistics from Renmin University of China, advised by Prof. [Bo Zhang](http://stat.ruc.edu.cn/en/teacher_more.php?cid=89248&id=52). 
 [//]: # Prior to that, I obtained my Bachelor's degree in Mathematics and Applied Mathematics from China University of Mining and Technology. 
