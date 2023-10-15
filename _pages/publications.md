@@ -20,7 +20,7 @@ The sign * indicates alphabetical order of authorship; the sign + indicates co-f
 
 
 - **The DeMixSC Deconvolution Framework Uses Single-Cell Sequencing Plus a Small Benchmark Dataset for Improved Analysis of Cell-Type Ratios in Complex Tissue Samples**\
-S. Guo^+, **X. Liu**,  X. Cheng, Y. Jiang, S. Ji, Q. Liang, A. Koval,  Y. Li, L. A. Owen,  I. K. Kim, A. Aparicio, J. N. Weinstein, S. Kopetz, J. P. Shen, M. M. DeAngelis, R. Chen, W. Wang. \
+S. Guo<sup>+<sup>, **X. Liu**,  X. Cheng, Y. Jiang, S. Ji, Q. Liang, A. Koval,  Y. Li, L. A. Owen,  I. K. Kim, A. Aparicio, J. N. Weinstein, S. Kopetz, J. P. Shen, M. M. DeAngelis, R. Chen, W. Wang. \
 *Submitted. [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2023.10.10.561733v1) [[code]](https://github.com/wwylab/DeMixSC)*
 
 
