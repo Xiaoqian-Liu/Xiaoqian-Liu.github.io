@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-The sign * indicates alphabetical order of authorship; the sign + indicates co-first authorships.
+The sign * indicates alphabetical order of authorship; the sign <sup>+<sup> indicates co-first authorships.
 
 [//]: #  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 
