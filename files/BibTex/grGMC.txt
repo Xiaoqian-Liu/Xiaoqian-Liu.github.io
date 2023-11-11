@@ -1,6 +1,11 @@
 @article{liu2021convex,
   title={A convex-nonconvex strategy for grouped variable selection},
   author={Liu, Xiaoqian and Molstad, Aaron J and Chi, Eric C},
-  journal={arXiv preprint arXiv:2111.15075},
-  year={2021}
+  journal={Electronic Journal of Statistics},
+  volume={17},
+  number={2},
+  pages={2912--2961},
+  year={2023},
+  publisher={The Institute of Mathematical Statistics and the Bernoulli Society}
 }
+
