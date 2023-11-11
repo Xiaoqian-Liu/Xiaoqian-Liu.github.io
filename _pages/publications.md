@@ -20,7 +20,7 @@ The sign * indicates alphabetical order of authorship; the sign <sup>+</sup> ind
 
 
 
-- **The DeMixSC Deconvolution Framework Uses Single-Cell Sequencing Plus a Small Benchmark Dataset for Improved Analysis of Cell-Type Ratios in Complex Tissue Samples**\
+- **DeMixSC: A Deconvolution Framework that Uses Single-Cell Sequencing Plus a Small Benchmark Dataset for Improved Analysis of Cell-Type Ratios in Complex Tissue Samples**\
 S. Guo<sup>+</sup>, **X. Liu**<sup>+</sup>,  X. Cheng<sup>+</sup>, Y. Jiang, S. Ji, Q. Liang, A. Koval,  Y. Li, L. A. Owen,  I. K. Kim, A. Aparicio, J. N. Weinstein, S. Kopetz, J. P. Shen, M. M. DeAngelis, R. Chen, W. Wang. \
 *Submitted. [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2023.10.10.561733v2) [[code]](https://github.com/wwylab/DeMixSC)*
 
@@ -32,12 +32,12 @@ S. Guo<sup>+</sup>, **X. Liu**<sup>+</sup>,  X. Cheng<sup>+</sup>, Y. Jiang, S. 
 
 - **A Convex-Nonconvex Strategy for Grouped Variable Selection**\
 **X. Liu**,  A. J. Molstad, and E. C. Chi. \
-*Electronic Journal of Statistics, to appear. [[BibTex]](/files/BibTex/grGMC.txt) [[arXiv]](https://arxiv.org/abs/2111.15075) [[code]](https://github.com/Xiaoqian-Liu/GMC)*
+*Electronic Journal of Statistics, to appear. [[BibTex]](/files/BibTex/grGMC.txt) [[link]](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-17/issue-2/A-convex-nonconvex-strategy-for-grouped-variable-selection/10.1214/23-EJS2167.full) [[code]](https://github.com/Xiaoqian-Liu/GMC)*
 
 - **A Sharper Computational Tool for L2E Regression**\
 **X. Liu**,  E. C. Chi, and K. L. Lange. (2023) \
 Technometrics, 65(1), 117-126.
-*[[BibTex]](/files/BibTex/L2E.txt) [[link]](https://www.tandfonline.com/doi/full/10.1080/00401706.2022.2118172) [[arXiv]](https://arxiv.org/abs/2203.02993) [[code]](https://jocelynchi.github.io/L2E-package-demo/)*
+*[[BibTex]](/files/BibTex/L2E.txt) [[link]](https://www.tandfonline.com/doi/full/10.1080/00401706.2022.2118172) [[code]](https://jocelynchi.github.io/L2E-package-demo/)*
 
 
 - **Revisiting Convexity-Preserving Signal Recovery with the Linearly Involved GMC Penalty**\
