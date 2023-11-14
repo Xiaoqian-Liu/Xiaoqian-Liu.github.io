@@ -32,7 +32,7 @@ S. Guo<sup>+</sup>, **X. Liu**<sup>+</sup>,  X. Cheng<sup>+</sup>, Y. Jiang, S. 
 
 - **A Convex-Nonconvex Strategy for Grouped Variable Selection**\
 **X. Liu**,  A. J. Molstad, and E. C. Chi. \
-*Electronic Journal of Statistics, 17(2),2912-2961. [[BibTex]](/files/BibTex/grGMC.txt) [[link]](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-17/issue-2/A-convex-nonconvex-strategy-for-grouped-variable-selection/10.1214/23-EJS2167.full) [[code]](https://github.com/Xiaoqian-Liu/GMC)*
+*Electronic Journal of Statistics, 17(2), 2912-2961. [[BibTex]](/files/BibTex/grGMC.txt) [[link]](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-17/issue-2/A-convex-nonconvex-strategy-for-grouped-variable-selection/10.1214/23-EJS2167.full) [[code]](https://github.com/Xiaoqian-Liu/GMC)*
 
 - **A Sharper Computational Tool for L2E Regression**\
 **X. Liu**,  E. C. Chi, and K. L. Lange. (2023) \
