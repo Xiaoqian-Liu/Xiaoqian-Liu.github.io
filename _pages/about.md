@@ -21,6 +21,7 @@ Outside of research, I love brisk walking, fitness classes, and yoga (particular
 [//]: #Applications in cancer genomics
 
 ##  News
+- **Noc. 2023:** Our [DeMixSC work](https://www.biorxiv.org/content/10.1101/2023.10.10.561733v1) won the Best Poster Award at The 2023 Leading Edge of Cancer Research Symposium!
 - **Oct. 2023:** Our [DeMixSC paper](https://www.biorxiv.org/content/10.1101/2023.10.10.561733v1) on bulk RNA-seq deconvolution is now on bioRxiv!
 - **Sept. 2023:** Our paper [A Convex-Nonconvex Strategy for Grouped Variable Selection ](https://arxiv.org/abs/2111.15075) was accepted by Electronic Journal of Statistics (EJS)!
 - **Apr. 2023:** Our paper on [1-bit matrix completion](https://arxiv.org/abs/2304.13940) is now on arXiv!
