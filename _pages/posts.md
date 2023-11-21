@@ -5,6 +5,8 @@ title: " "
 author_profile: true
 ---
 
+# *Knowledge is everywhere. Let's share.* 
+
 While I try to carefully prepare all materials, I might make mistakes. Please feel free to reach out if you spot an error or a doubtful statement in my posts. 
 
 # Stats/ML tutorials
