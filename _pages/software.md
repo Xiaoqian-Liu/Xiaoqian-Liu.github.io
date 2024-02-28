@@ -13,8 +13,9 @@ author_profile: true
 - [GMC](https://github.com/Xiaoqian-Liu/GMC): An R Package for GMC penalization methods for (grouped) variable selection in linear regression\
      - *[Introduction to the GMC Package](/files/Intro-to-GMC.html)*
      
- [//]: #- [MMGN](https://github.com/Xiaoqian-Liu/MMGN): MATLAB/R implementations of binary (1-bit) matrix completion
-
+ - [MMGN](https://github.com/Xiaoqian-Liu/MMGN): MATLAB/R implementations of the MMGN method for binary (1-bit) matrix completion\
+ 
+ - [DeMixSC](https://github.com/wwylab/DeMixSC): R implementation of the DeMixSC framework for bulk RNA-seq deconvolution\
 
 
 
