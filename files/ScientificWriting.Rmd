@@ -1,7 +1,7 @@
 ---
 title: "How to improve scientific writing"
 author: "Xiaoqian Liu"
-date: "`r format(Sys.time(), '%B %d, %Y')`"
+date: "May 21, 2024"
 #bibliography: feature-selection2.bib
 output: 
   html_document:
