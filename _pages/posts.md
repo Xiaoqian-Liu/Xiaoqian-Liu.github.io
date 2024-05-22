@@ -29,7 +29,7 @@ I started a series of Stats/ML tutorials at our lab meeting to discuss some topi
 
 - [[Lecture 2 ]](/files/cvx/CVX-Lecture2.pdf): Convex sets and convexity-preserving operations.
 
-- [[Lecture 3 ]](/files/cvx/CVX-Lecture3.pdf): Nonexpansiveness and its variants.
+- [[Lecture 3 ]](/files/cvx/CVX-Lecture3.pdf): Nonexpansiveness and its variants. 
                                                                                                                                                                                                                                        
 # Miscellanea
 
