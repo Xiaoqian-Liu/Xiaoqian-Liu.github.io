@@ -1,0 +1,313 @@
+---
+title: "How to improve scientific writing"
+author: "Xiaoqian Liu"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+#bibliography: feature-selection2.bib
+output: 
+  html_document:
+    toc: true # table of content true
+    toc_depth: 2  # upto three depths of headings (specified by #, ## and ###)
+    number_sections: true  ## if you want number sections at each table header
+    theme: united  # many options for theme, this one is my favorite.
+    highlight: tango  # specifies the syntax highlighting style
+biblio-style: unsrt
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# My thoughts on scientific writing
+
+Writing is a crucial part of scientific work, no matter you are a PhD student, a researcher in industry, or a professor in academia. In my opinion, 
+<center>
+<mark>writing = storytelling = advertising</mark>
+</center>
+that is, writing a paper (proposal) is to tell a story, which is a way to sell/advertise your work (idea). I personally think storytelling is a very important skill in all industries, which requires domain knowledge,  logic thinking, and good communication. In academia, in particular, the ability of storytelling is reflected through your writing. This is the key reason I want to share this lecture here. 
+
+Before getting started, I have to say that I am not an experienced scientific writer. I came to the US in 2018 to pursue my PhD and had little knowledge about scientific writing (especially in English) before then. But I have been putting attention on training and improving my writing skills. Some people may think that native speakers have natural advantages in paper writing since English is their mother language. I do not entirely agree, however. Native speakers are better at daily communication but not necessarily scientific writing. One needs learning and training to gain good scientific writing skills. I hope this may boost confidence for those non-native speakers, more or less. 
+
+
+
+
+
+# Key components in scientific writing
+
+There are many references/books that you can find online to teach you how to improve your scientific writing. Different people provide different suggestions/thoughts from different perspectives. Here I would like to share my own opinion, which is more applicable to paper/grant writing in academia, particularly in statistics/biostatistics. Also, it is not the golden standard. Please take whatever you like and ignore (or share your thoughts on) those you disagree with. 
+
+When I write a paper, there are four factors that I care the most, including structure, consistency, diversity, and visualization. I will discuss them on by one in the following.  
+
+## Structure
+
+*Structure is the key to the success of your writing.* It is a reflection of your logic thinking. The goal of your writing is to lead your readers, following YOUR logic, to where you want them to go. To a large degree, whether you can make your readers convinced depends on the structure of your writing, assuming there are no technical issues and your results are good. 
+
+When writing a paper, I always start with thinking about the structure of my paper. Generally speaking, the structure of a paper should have multiple layers, starting from sections (the outermost layer) to sentences (the innermost layer).
+
+Setting up sections is a easy task in my opinion since many journals require a fixed structure of a paper. Once you decide which journal you will submit your paper to, you can go to the journal's website and search for `Instructions for authors' (or 'Manuscript preparation', or similar names) to get the general format or a template of the manuscript. That gives you the needed sections in your paper. Typically, Introduction, Method, Results, and Discussion are the four sections must to have in a paper (names may vary slightly). Additional sections are required according to different journals or based on the authors' design of the paper.   
+
+Next, we address the structure of the remaining inner layers.
+ 
+### Structure of a section 
+
+After you decide the highest level of the structure of your paper (i.e., sections), the next step is to think about the structure of each section. The structure of the Method and Results sections are typically case by case and much easier to address than that of the Introduction and Discussion sections. Hence, I would like to share my preferences on the structure of the latter ones. Again, they are options but not standards. 
+
+*Structure of the Introduction section* 
+
+* Start with the problem, either the scientific problem (see my DeMixSC paper) or the mathematical problem (see my 1-bit paper) 
+
+* State clearly the current gap (literature review) and the impact (why the problem is important and needs to be solved)
+
+* Your contributions and achievements
+
+* Organization of your manuscript (a typical paragraph in a statistical manuscript).
+
+
+
+*Structure of the Discussion section* 
+
+* Summarize what you have done (typically start with the gap you bridged and repeat your contributions!!!)
+
+* Weakness of your work or what you have not done (both lead to future research)
+
+
+### Structure of a paragraph
+
+After we set the structure of a section, we need to think about how many paragraphs are needed in this section. This requires us to first set up the central information (i.e. the topic sentence) that we want to express in each paragraph.  A typical structure of a paragraph that I use is as follows:
+
+* First sentence (topic sentence) to express the central information
+
+    If this paragraph is closely related to the previous paragraph, always use some conjunction to make your paragraphs well connected. See paragraph 2 in DeMixSC.    
+
+* Follow-up evidence to support the central information 
+
+* Last sentence to summarize what is important and hint the next paragraph if applicable
+
+    See paragraph 2 in DeMixSC. 
+
+### Structure of a sentence
+
+The structure of a sentence is very often oversighted by many people. Indeed, not every sentence's structure has a significant impact on the information it delivers, but some do. See below the two compared sentences. 
+
+(1). Our proposed method produced the highest estimation accuracy, but it requires a longer computational time than the other methods.  
+
+(2). Though requiring a slightly longer computational time, our proposed method produced the highest estimation accuracy among all the compared methods. 
+
+The difference between (1) and (2) is their emphasis. Sentence (1) emphasizes the computational time ('but' is a indicator of what you want to emphasize), while sentence (2) emphasizes the highest accuracy ('though' is the part to be deemphasized).
+
+*Reminder:* ALWAYS emphasize your strengths and weaken your weaknesses using your writing skills!!!
+
+
+## Consistency
+
+*Consistency is the key to making your paper readable and professional.* Consistency is not creative work but very much needs your carefulness. Below I summarize consistency required in different aspects but may miss out some. Please feel free to let me know if you think of other aspects that are not covered below.   
+ 
+### Consistency in format
+
+* Capitalization in titles, including sections, subsections, tables, and figures
+
+* Indent and line spacing (be very careful if you do not use Latex)
+
+* Format of references (even if you use bibtex, very often to be oversighted)
+
+### Consistency in text
+
+* Font size
+
+  Consistency of the font size across paragraphs, tables, figures, and references.
+
+* Name
+
+  Foe example, Lasso v.s. LASSO, technological discrepancy v.s. technical discrepancy, MuSiC2 v.s. MuSiC2.0.
+
+* Caption
+
+  Same format for all captions (in bold? font size? Starting with a verb or noun?).
+  
+* Tense 
+
+  Keep the tense consistent for similar expressions. For instance, description of expriments is usually in the past tense.  
+
+### Consistency in math
+
+* Notations
+  
+  Better to have a paragraph clarifying how to denote different mathematical concepts (vectors, matrices, sets, norms, etc.). 
+  
+* Label
+
+  Same label format for your equations. (1) v.s. (1.1).
+
+* Symbols
+
+  Same symbol for the same notation. E.g., $|$ v.s. $\mid$ v.s. $\vert$ to denote conditioned on.
+
+  
+*Question*: I left one consistency issue on purpose in this subsection, can you spot it? (Hint: singular or plural)
+
+## Diversity
+
+*Diversity is the key to the beauty of your writing.* Eventually, we want our papers not only readable but also enjoyable to read. An effective way to achieve that is to diversifying our writing.     
+
+### Diversity in words
+
+* Verb
+
+  Verbs are very important in your writing. Make sure the verbs you choose can accurately (better vividly) deliver your message. 
+  
+  - Fig 1 shows ... Fig 2 shows... v.s. Fig 1 shows...,  Fig 2 demonstrates/depicts/illustrates...
+  
+  - A follows the same trend with B v.s. The trend in A mirrors the trend in B.
+
+* Adjective/adverb
+
+  Adjectives and adverbs make your writing precise.  
+  
+  - Slightly, moderately, considerably, notably, significantly.
+
+* Conjunction
+
+  Conjunctions make your writing well connected. 
+  
+  - However, nevertheless, yet.
+  
+  - Hence, therefore, consequently.
+  
+### Diversity in phrases
+
+* Prepositional phrase
+
+  - On the contrary, in contrast, on the other hand.
+  
+  - To that end, to achieve this, for that purpose.
+
+### Diversity in sentence patterns
+
+Improving the diversity in sentence patterns makes your writing not boring. For example, in the Results section, do not always use clauses like 'A produced a lower estimation error, which indicates that ....'. You can write 'The lower estimation error achieved by A suggests...'.
+
+But here I have to say that in some cases, we do want to keep the sentence pattern consistent. For example, when we introduce the existing methods in a specific field, we can use a consistent sentence pattern like 'Liu (2023) proposed a ... method by ... to solve some problem/achieve some goal'. 
+
+
+## Visualization
+
+Visualization plays a crucial role in scientific writing. One figure can deliver a lot of information. Making beautiful figures/graphs is not easy, but at least we can make them clear and professional without too much effort. Below are some rules/tips for visualization.
+
+* Make everything (text, numbers, etc.) in the figures look comparable as the main text 
+
+* Do NOT make your figure overloaded (e.g., too many colors/line styles/shapes)
+
+* Do NOT make your figure out of the page margins
+
+* Do NOT have typos in the figure title 
+
+  Of course, we should not have any typo anywhere, but typos in the title are particularly unacceptable since they are too obvious for readers to spot. 
+
+* Some reference posts for making high-quality figures
+
+  
+  <https://dgleich.wordpress.com/2013/06/04/creating-high-quality-graphics-in-matlab-for-papers-and-presentations/>
+
+
+
+
+# General rules for scientific writing
+
+When it comes to scientific writing, there are some general rules/conventions that people would follow. Below are some that I have learned from my advisors and collaborators.
+
+* Make your writing simple 
+
+  Simple and short sentences are more preferable than long and complicated sentences.
+  
+* Make your writing concise
+  
+  Quite often beginners tend to write too many details which make the writing messy. Check your writing sentence by sentence to see if there is any redundancy. Put technical details into supplement when needed.  
+  
+  
+* Active voice is usually preferable to passive voice
+
+* Acronyms need to be defined the FIRST time they are used
+
+  Use the acronyms after they are defined, and no full names anymore.
+
+* Do NOT begin a sentence with a citation
+  
+  Do not use '[2] proposed a method called ...'; use 'Liu (2023) proposed a method called ...' instead. 
+
+* Do NOT begin a sentence with a mathematical symbol
+
+* Do NOT make an equation separated by two lines
+
+* Make sure that every mathematical symbols are defined
+
+* Do NOT use a mathematical symbol to define two different quantities
+
+* Do NOT use two different mathematical symbols to denote a same quantity
+
+* Label equations ONLY when they are referenced in the text
+
+* Resources on scientific writing
+
+  - The Elements of Style, Fourth Edition <https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X>
+  
+  - Handbook of Writing for the Mathematical Sciences <https://archive.siam.org/books/ot63/>
+  
+  - Improving your scientific writing <https://www.med.upenn.edu/bushmanlab/assets/user-content/documents/scientificwritingv67.pdf>
+
+
+# AI for scientific writing
+
+Artificial intelligence (AI) opens many doors to improve the efficiency of scientific work, though it brings many challenges in the meantime. I personally consider AI as a valuable aid in scientific writing, as long as we can use it responsibly. Here is how I currently use AI for improving my writing skills. I believe I will refine this part as I become more familiar with AI tools and as the AI tools are further developed.
+
+* Use Grammarly to address grammar issues automatically
+
+  I installed the Grammarly extension to my Google Chrome and Word so that it can detect grammar issues automatically while I am writing.   
+
+* Use ChatGPT for further polish
+
+  I use ChatGPT to further check grammar issues (some may not be able to be detected by Grammarly). I ask ChatGPT to refine or revise my writing, paragraph by paragraph. But I do not copy and paste. I only take some words or phrases from it, or change the sentence pattern accordingly. I carefully check each of the revised sentences from ChatGPT since sometimes it does not quite understand my original meaning.   
+
+* Use ChatGPT for developing vocabulary
+
+  The way I use ChatGPT to revise my writing provides me with a good resource to extend my vocabulary. I can get different words or phrases from ChatGPT to express the same meaning. I also use Merriam-Webster to figure out detailed differences between similar words and may sometimes find other synonyms. All these improve my vocabulary. The expanded vocabulary can contribute to the diversity in my writing, see Section 2.3 above. 
+
+
+# My personal habits to improve writing
+
+As mentioned at the beginning, I have been putting attention and effort on improving my writing skills. Below are some habits that I have developed and found to be helpful.   
+
+* I take notes every time I read a paper or book
+
+  I take notes of those words/phrases/sentences that I like, so I can use them next time I write.
+  
+* I comment on writing every time I read a paper or book
+
+  I consider myself as a writing reviewer when I read. I think about how I will write if I write the same paper. 
+
+* I carefully compare the difference when people edit my writing
+
+  I had several manuscripts where my collaborators edited my writing a lot. I did not feel disappointed about that. I felt excited instead since it was a great opportunity for me to learn. I carefully reviewed every sentence they edited to understand why they made those changes. This process helped me recognize my weaknesses and further improve my writing.
+  
+  FYI: Use latexdiff for marking changes to tex documents.
+
+* I revise many times before I call my writing completed
+
+  I have revised my writing of this document five times before I give this presentation and will revise it a couple of times before I share it on my personal website. Every time I revise my writing, I can spot some typos or grammar issues, or I may think of a better way to refine my writing. This is where the improvement comes from. 
+  
+* I follow some researchers whose writing style I like
+
+  Kenneth Lange and Boaz Nadler are the two researchers I am following. They are both my collaborators and have different writing styles. But I like both. I enjoy reading Ken's book very much. 
+  
+* I read regularly and much more when I am writing a paper
+
+  Writing is a process of output. To have high quality of output, I need to have a large amount of high quality of input. 
+
+# Words in the end
+
+Improving writing skills takes time and effort. I am still in the process and will possibly be in the process the whole career life. In my view, the key to improving your writing is whether you have the consciousness. If you do want to improve your writing quickly, be conscious about it. You can learn anytime you read or write. So, let's keep conscious about writing and keep learning! 
+
+Please contact me if you have any comments on what I shared here. I will keep updating this document. 
+
+
+
+
+
+
