@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Xiaoqian Liu"
-  avatar           : "Self5.jpeg"
+  avatar           : "Self5.jpeg" 
   bio              : "Postdoc at UT MD Anderson"
   location         : "Houston, TX"
   employer         :
