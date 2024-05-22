@@ -33,8 +33,6 @@ I started a series of Stats/ML tutorials at our lab meeting to discuss some topi
                                                                                                                                                                                                                                        
 # Miscellanea
 
-- [[How to improve scientific writing]](/files/ScientificWriting.html): My personal thoughts and experiences on how to improve scientific writing. 
-
 - [[CUTEst installation and MATLAB interface]](/files/CUTEst installation and MATLAB interface.pdf): Instructions on installing CUTEst on Linux and using it in MATLAB.
 
 # Resources
