@@ -84,12 +84,12 @@ analytics:
 author:
   name             : "Xiaoqian Liu"
   avatar           : "Self5.jpeg" 
-  bio              : "Postdoc at UT MD Anderson"
-  location         : "Houston, TX"
+  bio              : "Assistant Professor at UCR"
+  location         : "Riverside, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=cn4PsckAAAAJ"
-  email            : xliu31@mdanderson.org
+  email            : xiaoqian.liu@ucr.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
