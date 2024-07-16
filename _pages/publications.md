@@ -18,6 +18,9 @@ The sign * indicates alphabetical order of authorship; the sign <sup>+</sup> ind
 [//]: #  **X. Liu**, E. C. Chi, and D. Papp. \
 [//]: #  *In preparation*. 
 
+- **Pan-cancer Subclonal Mutation Analysis of 7,827 Tumors Predicts Clinical Outcome**\
+Y. Jiang, M. Montierth, K. Yu, S. Ji, S. Guo, Q. Tran, **X. Liu**, et al., W. Wang. \
+*Submitted. [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2024.07.03.601939v1) [[code]](https://github.com/wwylab/CliPP)*
 
 
 - **DeMixSC: A Deconvolution Framework that Uses Single-Cell Sequencing Plus a Small Benchmark Dataset for Improved Analysis of Cell-Type Ratios in Complex Tissue Samples**\
