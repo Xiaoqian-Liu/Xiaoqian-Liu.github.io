@@ -3,7 +3,7 @@ permalink: /
 title: "About me "
 ---
 
-I am a tenure-track assistant professor in the [Department of Statistics](https://statistics.ucr.edu/) at the [University of California, Riverside](https://www.ucr.edu/). Previously, I was a postdoctoral fellow at the [University of Texas MD Anderson Cancer Center](https://www.mdanderson.org/), working with Prof. [Wenyi Wang](https://odin.mdacc.tmc.edu/~wwang7/) from 2022 to 2024. I received my PhD degree in Statistics from [North Carolina State University](https://statistics.sciences.ncsu.edu/) in 2022, advised by Prof. [Eric C. Chi](http://www.ericchi.com/) (now at Rice University). 
+I am a tenure-track assistant professor in the [Department of Statistics](https://statistics.ucr.edu/) at the [University of California, Riverside](https://www.ucr.edu/). Previously, I was a postdoctoral fellow at the [University of Texas MD Anderson Cancer Center](https://www.mdanderson.org/), working with Dr. [Wenyi Wang](https://odin.mdacc.tmc.edu/~wwang7/) from 2022 to 2024. I received my PhD degree in Statistics from [North Carolina State University](https://statistics.sciences.ncsu.edu/) in 2022, advised by Dr. [Eric C. Chi](http://www.ericchi.com/) (now at Rice University). 
 
 My research interests broadly lie in statistical machine learning, computational statistics & optimization, and their applications in bioinformatics & cancer biology.
 
@@ -28,8 +28,8 @@ Outside of research, I love brisk walking, fitness classes, and yoga (particular
 [//]: #Applications in cancer genomics
 
 ##  News
-- **July. 2024:** Collaborative work on [Subclonal Reconstruction using CliPP](https://www.biorxiv.org/content/10.1101/2024.07.03.601939v1) is now on bioRxiv.
-- **May 2024:**  Xiaoqian will be joining UCR Department of Statistics as a tenure-track Assistant Professor in July 1st, 2024. 
+- **July 2024:** Collaborative work on [Subclonal Reconstruction using CliPP](https://www.biorxiv.org/content/10.1101/2024.07.03.601939v1) is now on bioRxiv.
+- **May 2024:**  Xiaoqian will be joining UCR Department of Statistics as a tenure-track Assistant Professor in July 2024. 
 - **Nov. 2023:** Our [DeMixSC work](https://www.biorxiv.org/content/10.1101/2023.10.10.561733v1) won the Best Poster Award at [The 2023 Leading Edge of Cancer Research Symposium](https://www.mdanderson.org/research/research-resources/conferences-seminars/symposium-on-cancer-research.html)!
 - **Oct. 2023:** Our [DeMixSC paper](https://www.biorxiv.org/content/10.1101/2023.10.10.561733v1) on bulk RNA-seq deconvolution is now on bioRxiv.
 - **Sept. 2023:** Our paper [A Convex-Nonconvex Strategy for Grouped Variable Selection ](https://arxiv.org/abs/2111.15075) was accepted by Electronic Journal of Statistics (EJS).
