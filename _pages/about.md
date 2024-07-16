@@ -10,11 +10,13 @@ My research interests broadly lie in statistical machine learning, computational
 [//]: # I am broadly interested in numerical optimization, machine learning, high-dimensional statistics, and their applications in cancer omics data analysis, including genomic diversity and transcriptomic heterogeneity. 
 
 
-[//]: # Before joining NCSU, I obtained my Master's degree in Statistics from Renmin University of China, advised by Prof. [Bo Zhang](http://stat.ruc.edu.cn/en/teacher_more.php?cid=89248&id=52). 
-[//]: # Prior to that, I obtained my Bachelor's degree in Mathematics and Applied Mathematics from China University of Mining and Technology. 
+[//]: #Before joining NCSU, I obtained my Master's degree in Statistics from Renmin University of China, advised by Prof. [Bo Zhang](http://stat.ruc.edu.cn/en/teacher_more.php?cid=89248&id=52). 
+[//]: #Prior to that, I obtained my Bachelor's degree in Mathematics and Applied Mathematics from China University of Mining and Technology. 
 
-[//]: # Since my PhD studies, I have had great pleasure in working with Prof. [Kenneth L. Lange](https://people.healthsciences.ucla.edu/institution/personnel?personnel_id=45702) , Prof. [Boaz Nadler](https://www.weizmann.ac.il/math/[//]: # Nadler/home), Prof. [Shiqian Ma](https://sqma.rice.edu/), Prof. [Aaron J. Molstad](https://ajmolstad.github.io/), and Prof. [Amanda Randles](https://randleslab.pratt.duke.edu/people/amanda-randles) on a diverse set of projects. 
-[//]: # From Summer 2021 to Summer 2022, I had a wonderful internship at [Argonne National Laboratory](https://www.anl.gov/mcs/lans), working on a research project on derivative-free optimization under the supervision of Dr. [Stefan [//]: # M. Wild](https://wildsm.github.io/) (now at Lawrence Berkeley National Lab). 
+[//]: #Since my PhD studies, I have had great pleasure in working with Prof. [Kenneth L. Lange](https://people.healthsciences.ucla.edu/institution/personnel?personnel_id=45702), Prof. [Boaz Nadler](https://www.weizmann.ac.il/math/
+[//]: #Nadler/home), Prof. [Shiqian Ma](https://sqma.rice.edu/), Prof. [Aaron J. Molstad](https://ajmolstad.github.io/), and Prof. [Amanda Randles](https://randleslab.pratt.duke.edu/people/amanda-randles) on a diverse set of projects. 
+[//]: #From Summer 2021 to Summer 2022, I had a wonderful internship at [Argonne National Laboratory](https://www.anl.gov/mcs/lans), working on a research project on derivative-free optimization under the supervision of 
+[//]: #Dr. [Stefan M. Wild](https://wildsm.github.io/) (now at Lawrence Berkeley National Lab). 
 
 Outside of research, I love brisk walking, fitness classes, and yoga (particularly hot/heated yoga). I am proud of being a yogi! You never know what persistence will pay you off!  
 
