@@ -3,6 +3,12 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
+### University of California,  Riverside
+- STAT 160A: Elements of Probability and Statistical Theory
+     - Instructor, Fall 2024
+- STAT 160B: Elements of Probability and Statistical Theory
+     - Instructor, Winter 2024
+
 ### North Carolina State University
 - ST779: Advanced Probability for Statistical Inference
      - *Teaching Assistant*, Spring 2022
