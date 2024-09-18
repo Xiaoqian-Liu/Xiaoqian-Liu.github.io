@@ -18,7 +18,7 @@ My research interests broadly lie in statistical machine learning, computational
 [//]: #From Summer 2021 to Summer 2022, I had a wonderful internship at [Argonne National Laboratory](https://www.anl.gov/mcs/lans), working on a research project on derivative-free optimization under the supervision of 
 [//]: #Dr. [Stefan M. Wild](https://wildsm.github.io/) (now at Lawrence Berkeley National Lab). 
 
-Outside of research, I love brisk walking, fitness classes, and yoga (particularly hot/heated yoga). I am proud of being a yogi! You never know what persistence will pay you off!  
+Outside of research, I love brisk walking, fitness classes, and yoga (particularly hot yoga). I am proud of being a yogi! You never know what persistence will pay off!  
 
 [//]: #**Research interests**\
 [//]: #Numerical optimization\
