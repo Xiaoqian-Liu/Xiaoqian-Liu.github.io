@@ -30,7 +30,7 @@ S. Guo<sup>+</sup>, **X. Liu**<sup>+</sup>,  X. Cheng<sup>+</sup>, Y. Jiang, S. 
 
 - **A Majorization-Minimization Gauss-Newton Method for 1-Bit Matrix Completion**\
 **X. Liu**,  X. Han, E. C. Chi, and B. Nadler. \
-*Submitted. [[arXiv]](https://arxiv.org/abs/2304.13940) [[code]](https://github.com/Xiaoqian-Liu/MMGN)*
+*Accepted at Journal of Computational and Graphical Statistics (JCGS). [[arXiv]](https://arxiv.org/abs/2304.13940) [[code]](https://github.com/Xiaoqian-Liu/MMGN)*
 
 
 - **A Convex-Nonconvex Strategy for Grouped Variable Selection**\
