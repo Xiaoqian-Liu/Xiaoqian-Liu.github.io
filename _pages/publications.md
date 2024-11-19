@@ -23,7 +23,7 @@ The sign * indicates alphabetical order of authorship; the sign <sup>+</sup> ind
 [//]: # *Submitted. [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2024.07.03.601939v1) [[code]](https://github.com/wwylab/CliPP)*
 
 
-- **DeMixSC: A Deconvolution Framework that Uses Single-Cell Sequencing Plus a Small Benchmark Dataset for Improved Analysis of Cell-Type Ratios in Complex Tissue Samples**\
+- **A Deconvolution Framework that Uses Single-Cell Sequencing Plus a Small Benchmark Dataset for Improved Analysis of Cell-Type Ratios in Complex Tissue Samples**\
 S. Guo<sup>+</sup>, **X. Liu**<sup>+</sup>,  X. Cheng<sup>+</sup>, Y. Jiang, S. Ji, Q. Liang, A. Koval,  Y. Li, L. A. Owen,  I. K. Kim, A. Aparicio, J. N. Weinstein, S. Kopetz, J. P. Shen, M. M. DeAngelis, R. Chen, W. Wang. \
 *Accepted at Genome Research. [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2023.10.10.561733v3) [[code]](https://github.com/wwylab/DeMixSC) [[tutorial]](https://wwylab.github.io/DeMixSC/)*
 

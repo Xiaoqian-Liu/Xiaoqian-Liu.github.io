@@ -33,7 +33,8 @@ Outside of research, I love brisk walking, fitness classes, and yoga (particular
 - **Oct. 2024:** Our paper on [1-bit matrix completion](https://arxiv.org/abs/2304.13940) was accepted by JCGS!
 - **July 2024:**  Xiaoqian joined UCR Department of Statistics as a tenure-track Assistant Professor starting from July 1st, 2024. 
 - **Nov. 2023:** Our [DeMixSC work](https://www.biorxiv.org/content/10.1101/2023.10.10.561733v1) won the Best Poster Award at [The 2023 Leading Edge of Cancer Research Symposium](https://www.mdanderson.org/research/research-resources/conferences-seminars/symposium-on-cancer-research.html)!
-- **Oct. 2023:** Our [DeMixSC paper](https://www.biorxiv.org/content/10.1101/2023.10.10.561733v1) on bulk RNA-seq deconvolution is now on bioRxiv.
+
+[//]: # - **Oct. 2023:** Our [DeMixSC paper](https://www.biorxiv.org/content/10.1101/2023.10.10.561733v1) on bulk RNA-seq deconvolution is now on bioRxiv.
 
 [//]: # - **Sept. 2023:** Our paper [A Convex-Nonconvex Strategy for Grouped Variable Selection ](https://arxiv.org/abs/2111.15075) was accepted by Electronic Journal of Statistics (EJS).
 
