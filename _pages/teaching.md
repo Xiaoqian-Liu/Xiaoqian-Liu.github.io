@@ -7,7 +7,7 @@ title: "Teaching"
 - STAT 160A: Elements of Probability and Statistical Theory
      - Instructor, Fall 2024
 - STAT 160B: Elements of Probability and Statistical Theory
-     - Instructor, Winter 2024
+     - Instructor, Winter 2025
 
 ### North Carolina State University
 - ST779: Advanced Probability for Statistical Inference
