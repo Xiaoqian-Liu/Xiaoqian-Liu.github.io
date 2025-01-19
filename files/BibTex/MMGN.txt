@@ -1,0 +1,9 @@
+@article{liu2024majorization,
+  title={A Majorization-Minimization Gauss-Newton Method for 1-Bit Matrix Completion},
+  author={Liu, Xiaoqian and Han, Xu and Chi, Eric C and Nadler, Boaz},
+  journal={Journal of Computational and Graphical Statistics},
+  number={just-accepted},
+  pages={1--20},
+  year={2024},
+  publisher={Taylor \& Francis}
+}
