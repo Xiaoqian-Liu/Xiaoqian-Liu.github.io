@@ -18,23 +18,23 @@ The sign * indicates alphabetical order of authorship; the sign <sup>+</sup> ind
 [//]: #  **X. Liu**, E. C. Chi, and D. Papp. \
 [//]: #  *In preparation*. 
 
-[//]: # - **Pan-cancer Subclonal Mutation Analysis of 7,827 Tumors Predicts Clinical Outcome**\
-[//]: # Y. Jiang, M. Montierth, K. Yu, S. Ji, S. Guo, Q. Tran, **X. Liu**, et al., W. Wang. \
-[//]: # *Submitted. [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2024.07.03.601939v1) [[code]](https://github.com/wwylab/CliPP)*
+- **Pan-cancer Subclonal Mutation Analysis of 7,827 Tumors Predicts Clinical Outcome**\
+Y. Jiang, M. D. Montierth, K. Yu, S. Ji, S. Guo, Q. Tran, **X. Liu**, et al. , W. Wang. \
+*Submitted. [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2024.07.03.601939v1) [[code]](https://github.com/wwylab/CliPP)*
 
 
 - **A Deconvolution Framework that Uses Single-Cell Sequencing Plus a Small Benchmark Dataset for Improved Analysis of Cell-Type Ratios in Complex Tissue Samples**\
-S. Guo<sup>+</sup>, **X. Liu**<sup>+</sup>,  X. Cheng<sup>+</sup>, Y. Jiang, S. Ji, Q. Liang, A. Koval,  Y. Li, L. A. Owen,  I. K. Kim, A. Aparicio, J. N. Weinstein, S. Kopetz, J. P. Shen, M. M. DeAngelis, R. Chen, W. Wang. \
-*Accepted at Genome Research. [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2023.10.10.561733v3) [[code]](https://github.com/wwylab/DeMixSC) [[tutorial]](https://wwylab.github.io/DeMixSC/)*
+S. Guo<sup>+</sup>, **X. Liu**<sup>+</sup>,  X. Cheng<sup>+</sup>, Y. Jiang, S. Ji, Q. Liang, A. Koval,  Y. Li, L. A. Owen,  I. K. Kim, A. Aparicio, J. N. Weinstein, S. Kopetz, J. P. Shen, M. M. DeAngelis, R. Chen, W. Wang. (2024) \
+*Accepted at Genome Research. [[link]](https://genome.cshlp.org/content/early/2025/01/03/gr.278822.123) [[code]](https://github.com/wwylab/DeMixSC) [[tutorial]](https://wwylab.github.io/DeMixSC/)*
 
 
 - **A Majorization-Minimization Gauss-Newton Method for 1-Bit Matrix Completion**\
-**X. Liu**,  X. Han, E. C. Chi, and B. Nadler. \
-*Accepted at Journal of Computational and Graphical Statistics (JCGS). [[arXiv]](https://arxiv.org/abs/2304.13940) [[code]](https://github.com/Xiaoqian-Liu/MMGN)*
+**X. Liu**,  X. Han, E. C. Chi, and B. Nadler. (2024)\
+*Accepted at Journal of Computational and Graphical Statistics (JCGS). [[link]](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2428610#abstract) [[code]](https://github.com/Xiaoqian-Liu/MMGN)*
 
 
 - **A Convex-Nonconvex Strategy for Grouped Variable Selection**\
-**X. Liu**,  A. J. Molstad, and E. C. Chi. \
+**X. Liu**,  A. J. Molstad, and E. C. Chi. (2023) \
 *Electronic Journal of Statistics, 17(2), 2912-2961. [[BibTex]](/files/BibTex/grGMC.txt) [[link]](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-17/issue-2/A-convex-nonconvex-strategy-for-grouped-variable-selection/10.1214/23-EJS2167.full) [[code]](https://github.com/Xiaoqian-Liu/GMC)*
 
 - **A Sharper Computational Tool for L2E Regression**\
