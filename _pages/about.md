@@ -20,6 +20,8 @@ My research interests broadly lie in statistical machine learning, computational
 
 Outside of research, I love brisk walking, fitness classes, and yoga (particularly hot yoga). I am proud of being a yogi! You never know what persistence will pay off!  
 
+I am actively looking for highly motivated students to work on 1) method and algorithm development in statistics and machine learning and/or 2) applications in cancer biology. Feel free to send me an email with your CV if you are interested. 
+
 [//]: #**Research interests**\
 [//]: #Numerical optimization\
 [//]: #High-dimensional statistics\
