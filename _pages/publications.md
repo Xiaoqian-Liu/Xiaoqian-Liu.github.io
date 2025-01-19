@@ -19,12 +19,12 @@ The sign * indicates alphabetical order of authorship; the sign <sup>+</sup> ind
 [//]: #  *In preparation*. 
 
 - **Pan-cancer Subclonal Mutation Analysis of 7,827 Tumors Predicts Clinical Outcome**\
-Y. Jiang, M. D. Montierth, K. Yu, S. Ji, S. Guo, Q. Tran, **X. Liu**, et al. , W. Wang. \
+Y. Jiang, M. D. Montierth, K. Yu, S. Ji, S. Guo, Q. Tran, **X. Liu**, et al., W. Wang. (2024+) \
 *Submitted. [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2024.07.03.601939v1) [[code]](https://github.com/wwylab/CliPP)*
 
 
 - **A Deconvolution Framework that Uses Single-Cell Sequencing Plus a Small Benchmark Dataset for Improved Analysis of Cell-Type Ratios in Complex Tissue Samples**\
-S. Guo<sup>+</sup>, **X. Liu**<sup>+</sup>,  X. Cheng<sup>+</sup>, Y. Jiang, S. Ji, Q. Liang, A. Koval,  Y. Li, L. A. Owen,  I. K. Kim, A. Aparicio, J. N. Weinstein, S. Kopetz, J. P. Shen, M. M. DeAngelis, R. Chen, W. Wang. (2024) \
+S. Guo<sup>+</sup>, **X. Liu**<sup>+</sup>,  X. Cheng<sup>+</sup>, et al., W. Wang. (2024) \
 *Accepted at Genome Research. [[link]](https://genome.cshlp.org/content/early/2025/01/03/gr.278822.123) [[code]](https://github.com/wwylab/DeMixSC) [[tutorial]](https://wwylab.github.io/DeMixSC/)*
 
 
