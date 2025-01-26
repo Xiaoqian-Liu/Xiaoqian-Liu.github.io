@@ -10,7 +10,6 @@ My research interests broadly lie in statistical machine learning, computational
 I am actively looking for highly motivated Ph.D. students to work on 1) method and algorithm development in statistics and machine learning and/or 2) applications in cancer biology. Please feel free to send me an email with your CV if you are interested. 
 
 
-
 ##  News
 [//]: # - **July 2024:** Collaborative work on [Subclonal Reconstruction using CliPP](https://www.biorxiv.org/content/10.1101/2024.07.03.601939v1) is now on bioRxiv.
 - **Nov. 2024:** Our [DeMixSC paper](https://www.biorxiv.org/content/10.1101/2023.10.10.561733v3) was accepted by Genome Research!
