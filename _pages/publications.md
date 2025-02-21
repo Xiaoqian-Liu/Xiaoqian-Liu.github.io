@@ -18,6 +18,11 @@ The sign * indicates alphabetical order of authorship; the sign <sup>+</sup> ind
 [//]: #  **X. Liu**, E. C. Chi, and D. Papp. \
 [//]: #  *In preparation*. 
 
+- **Anderson Accelerated Operator Splitting Methods for Convex-nonconvex Regularized Problems**\
+**Q. Heng<sup>+</sup>,, **X. Liu**<sup>+</sup>,,  and C. Chi. (2025)\
+*Submitted. [[link]](https://arxiv.org/abs/2502.14269) [[code]](https://github.com/qhengncsu/AA_CNC)*
+
+
 - **Pan-cancer Subclonal Mutation Analysis of 7,827 Tumors Predicts Clinical Outcome**\
 Y. Jiang, M. D. Montierth, K. Yu, S. Ji, S. Guo, Q. Tran, **X. Liu**, et al., W. Wang. (2024+) \
 *Submitted. [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2024.07.03.601939v1) [[code]](https://github.com/wwylab/CliPP)*
