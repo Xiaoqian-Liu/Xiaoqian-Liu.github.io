@@ -8,6 +8,8 @@ title: "Teaching"
      - Instructor, Fall 2024
 - STAT 160B: Elements of Probability and Statistical Theory
      - Instructor, Winter 2025
+- STAT 209: Software Tools for Big Data Analysis
+     - Instructor, Spring 2025
 
 ### North Carolina State University
 - ST779: Advanced Probability for Statistical Inference
