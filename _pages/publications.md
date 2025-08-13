@@ -23,9 +23,9 @@ Q. Heng<sup>+</sup>,, **X. Liu**<sup>+</sup>,,  and E. C. Chi. (2025)\
 *Submitted. [[link]](https://arxiv.org/abs/2502.14269) [[code]](https://github.com/qhengncsu/AA_CNC)*
 
 
-- **Pan-cancer Subclonal Mutation Analysis of 7,827 Tumors Predicts Clinical Outcome**\
+- **Subclonal Mutation Load Predicts Survival and Response to Immunotherapy in Cancers with Low to Moderate Tumor Mutation Burden**\
 Y. Jiang, M. D. Montierth, K. Yu, S. Ji, S. Guo, Q. Tran, **X. Liu**, et al., W. Wang. (2024+) \
-*Submitted. [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2024.07.03.601939v1) [[code]](https://github.com/wwylab/CliPP)*
+*Submitted. [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2024.07.03.601939v2) [[code]](https://github.com/wwylab/CliPP)*
 
 
 - **A Deconvolution Framework that Uses Single-Cell Sequencing Plus a Small Benchmark Dataset for Improved Analysis of Cell-Type Ratios in Complex Tissue Samples**\
