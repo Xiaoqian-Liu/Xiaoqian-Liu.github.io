@@ -29,13 +29,13 @@ Y. Jiang, M. D. Montierth, K. Yu, S. Ji, S. Guo, Q. Tran, **X. Liu**, et al., W.
 
 
 - **A Deconvolution Framework that Uses Single-Cell Sequencing Plus a Small Benchmark Dataset for Improved Analysis of Cell-Type Ratios in Complex Tissue Samples**\
-S. Guo<sup>+</sup>, **X. Liu**<sup>+</sup>,  X. Cheng<sup>+</sup>, et al., W. Wang. (2024) \
-*Accepted at Genome Research. [[link]](https://genome.cshlp.org/content/early/2025/01/03/gr.278822.123) [[code]](https://github.com/wwylab/DeMixSC) [[tutorial]](https://wwylab.github.io/DeMixSC/)*
+S. Guo<sup>+</sup>, **X. Liu**<sup>+</sup>,  X. Cheng<sup>+</sup>, et al., W. Wang. (2025) \
+*Genome Research, 35(1), 147-161. [[link]](https://genome.cshlp.org/content/early/2025/01/03/gr.278822.123) [[code]](https://github.com/wwylab/DeMixSC) [[tutorial]](https://wwylab.github.io/DeMixSC/)*
 
 
 - **A Majorization-Minimization Gauss-Newton Method for 1-Bit Matrix Completion**\
-**X. Liu**,  X. Han, E. C. Chi, and B. Nadler. (2024)\
-*Accepted at Journal of Computational and Graphical Statistics (JCGS). [[link]](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2428610#abstract) [[code]](https://github.com/Xiaoqian-Liu/MMGN)*
+**X. Liu**,  X. Han, E. C. Chi, and B. Nadler. (2025)\
+*Journal of Computational and Graphical Statistics (JCGS), 1-13. [[link]](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2428610#abstract) [[code]](https://github.com/Xiaoqian-Liu/MMGN)*
 
 
 - **A Convex-Nonconvex Strategy for Grouped Variable Selection**\
