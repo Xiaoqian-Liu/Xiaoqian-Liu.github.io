@@ -17,7 +17,8 @@ I am actively looking for highly motivated Ph.D. students to work on 1) method a
 - **May 2025:** Honored to receive the IMS [FSML](https://fsmlims.wixsite.com/fsml25) Travel Award. 
 - **Feb. 2025:** Our paper [Anderson Accelerated Operator Splitting Methods for Convex-nonconvex Regularized Problems](https://arxiv.org/abs/2502.14269) is now on arXiv. 
 - **Nov. 2024:** Our [DeMixSC paper](https://www.biorxiv.org/content/10.1101/2023.10.10.561733v3) was accepted by Genome Research!
-[//]: - **Oct. 2024:** Our paper on [1-bit matrix completion](https://arxiv.org/abs/2304.13940) was accepted by JCGS!
+
+[//]: # - **Oct. 2024:** Our paper on [1-bit matrix completion](https://arxiv.org/abs/2304.13940) was accepted by JCGS!
 
 [//]: # - **July 2024:**  Xiaoqian joined UCR Department of Statistics as a tenure-track Assistant Professor starting from July 1st, 2024. 
 
