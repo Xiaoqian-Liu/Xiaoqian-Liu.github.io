@@ -20,7 +20,7 @@ The sign * indicates alphabetical order of authorship; the sign <sup>+</sup> ind
 
 - **Anderson Accelerated Operator Splitting Methods for Convex-nonconvex Regularized Problems**\
 Q. Heng<sup>+</sup>,, **X. Liu**<sup>+</sup>,,  and E. C. Chi. (2025)\
-*Accepted at IEEE Open Journal of Signal Processing. [[link]](https://arxiv.org/abs/2502.14269) [[code]](https://github.com/qhengncsu/AA_CNC)*
+*Accepted at IEEE Open Journal of Signal Processing. [[link]](https://ieeexplore.ieee.org/document/11194222) [[code]](https://github.com/qhengncsu/AA_CNC)*
 
 
 - **Subclonal Mutation Load Predicts Survival and Response to Immunotherapy in Cancers with Low to Moderate Tumor Mutation Burden**\
