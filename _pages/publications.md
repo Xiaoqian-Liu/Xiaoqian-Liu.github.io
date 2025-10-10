@@ -18,6 +18,12 @@ The sign * indicates alphabetical order of authorship; the sign <sup>+</sup> ind
 [//]: #  **X. Liu**, E. C. Chi, and D. Papp. \
 [//]: #  *In preparation*. 
 
+- **Transfer Learning for Survival-based Clustering of Predictors with an Application to TP53 Mutation Annotation**\
+**X. Liu**,  H. Yan, H. Shi, E. Montellier, E. C. Chi, P. Hainaut, and W. Wang. (2025) \
+*Submitted. [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2025.10.06.680732v1) [[code]](https://github.com/Xiaoqian-Liu/TL-SCP)*
+
+
+
 - **Anderson Accelerated Operator Splitting Methods for Convex-nonconvex Regularized Problems**\
 Q. Heng<sup>+</sup>,, **X. Liu**<sup>+</sup>,,  and E. C. Chi. (2025)\
 *Accepted at IEEE Open Journal of Signal Processing. [[link]](https://ieeexplore.ieee.org/document/11194222) [[code]](https://github.com/qhengncsu/AA_CNC)*
