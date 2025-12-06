@@ -15,7 +15,7 @@ I am actively looking for highly motivated Ph.D. students to work on 1) method a
 - **Sept. 2025:** Our paper [Anderson Accelerated Operator Splitting Methods for Convex-nonconvex Regularized Problems](https://arxiv.org/abs/2502.14269) was accepted by IEEE Open Journal of Signal Processing!
 - **July 2025:** Honored to receive UCR 2025-2026 Regents Faculty Fellowship (RFF) grant!  
 - **May 2025:** Honored to receive the IMS [FSML](https://fsmlims.wixsite.com/fsml25) Travel Award. 
-- **Nov. 2024:** Our [DeMixSC paper](https://www.biorxiv.org/content/10.1101/2023.10.10.561733v3) was accepted by Genome Research!
+[//]: # - **Nov. 2024:** Our [DeMixSC paper](https://www.biorxiv.org/content/10.1101/2023.10.10.561733v3) was accepted by Genome Research!
 
 [//]: # - **Feb. 2025:** Our paper [Anderson Accelerated Operator Splitting Methods for Convex-nonconvex Regularized Problems](https://arxiv.org/abs/2502.14269) is now on arXiv. 
 
