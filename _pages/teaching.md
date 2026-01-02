@@ -7,7 +7,7 @@ title: "Teaching"
 - STAT 160A: Elements of Probability and Statistical Theory
      - Instructor, Fall 2024, 2025
 - STAT 160B: Elements of Probability and Statistical Theory
-     - Instructor, Winter 2025
+     - Instructor, Winter 2025, 2026
 - STAT 209: Software Tools for Big Data Analysis
      - Instructor, Spring 2025
 
