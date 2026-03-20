@@ -189,7 +189,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  group:             
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -246,6 +248,13 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _group
+  - scope:
+      path: ""
+      type: group
+    values:
+      layout: single
+      author_profile: true
 
 # Sass/SCSS
 sass:
