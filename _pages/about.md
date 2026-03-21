@@ -6,7 +6,7 @@ title: "About me "
 I am a tenure-track assistant professor in the [Department of Statistics](https://statistics.ucr.edu/) at the [University of California, Riverside](https://www.ucr.edu/). I am also a faculty member of the UCR Graduate Program in [Genetics, Genomics & Bioinformatics](https://genetics.ucr.edu/). Previously, I was a postdoctoral fellow at the University of Texas MD Anderson Cancer Center from 2022 to 2024. I received my Ph.D. in Statistics from North Carolina State University in 2022. 
 My research interests lie broadly in statistical machine learning, computational statistics, and numerical optimization, with applications in (1) bioinformatics and cancer biology, and (2) AI evaluation.
 
-I am actively looking for highly motivated Ph.D. students to work on 1) method and algorithm development in statistics and machine learning, 2) applications in cancer biology, and 3) applications in AI evaluation. Please feel free to send me an email with your CV if you are interested. 
+I am actively looking for highly motivated Ph.D. students to work on 1) method and algorithm development in statistics and machine learning, 2) AI evaluation, and 3) applications in cancer biology. Please feel free to send me an email with your CV if you are interested. 
 
 
 ##  News
