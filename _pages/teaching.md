@@ -5,11 +5,11 @@ title: "Teaching"
 
 ### University of California,  Riverside
 - STAT 160A: Elements of Probability and Statistical Theory
-     - Instructor, Fall 2024, 2025
+     - Instructor, Fall 2024, Fall 2025
 - STAT 160B: Elements of Probability and Statistical Theory
-     - Instructor, Winter 2025, 2026
+     - Instructor, Winter 2025, Winter 2026
 - STAT 209: Software Tools for Big Data Analysis
-     - Instructor, Spring 2025
+     - Instructor, Spring 2025, Spring 2026
 
 ### North Carolina State University
 - ST779: Advanced Probability for Statistical Inference
