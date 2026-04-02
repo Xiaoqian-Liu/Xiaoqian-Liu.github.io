@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-The sign * indicates alphabetical order of authorship; the sign <sup>+</sup> indicates co-first authorships.
+The sign * indicates supervised students; the sign <sup>+</sup> indicates equal contribution.
 
 [//]: #  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 
@@ -17,6 +17,11 @@ The sign * indicates alphabetical order of authorship; the sign <sup>+</sup> ind
 [//]: #  - **Computation of the GMC-type Penalized Least-Squares via Convex Conjugate**\
 [//]: #  **X. Liu**, E. C. Chi, and D. Papp. \
 [//]: #  *In preparation*. 
+
+- **ransfer Learning for Robust Structured Regression with Bi-level Source Detection.**\
+H. Shi*,  Y. Feng, and **X. Liu**. (2025) \
+*Manuscript available upon request.*
+
 
 - **Transfer Learning for Survival-based Clustering of Predictors with an Application to TP53 Mutation Annotation**\
 **X. Liu**,  H. Yan, H. Shi, E. Montellier, E. C. Chi, P. Hainaut, and W. Wang. (2025) \
