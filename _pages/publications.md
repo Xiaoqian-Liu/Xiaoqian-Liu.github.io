@@ -18,7 +18,7 @@ The sign * indicates supervised students; the sign <sup>+</sup> indicates equal 
 [//]: #  **X. Liu**, E. C. Chi, and D. Papp. \
 [//]: #  *In preparation*. 
 
-- **ransfer Learning for Robust Structured Regression with Bi-level Source Detection.**\
+- **Transfer Learning for Robust Structured Regression with Bi-level Source Detection.**\
 H. Shi*,  Y. Feng, and **X. Liu**. (2025) \
 *Manuscript available upon request.*
 
