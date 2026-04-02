@@ -19,7 +19,7 @@ The sign <sup>\*</sup> indicates supervised students; the sign <sup>+</sup> indi
 [//]: #  *In preparation*. 
 
 - **Transfer Learning for Robust Structured Regression with Bi-level Source Detection.**\
-H. Shi <sup>\*</sup>,  Y. Feng, and **X. Liu**. (2025) \
+H. Shi<sup>\*</sup>,  Y. Feng, and **X. Liu**. (2025) \
 *Manuscript available upon request.*
 
 
@@ -30,7 +30,7 @@ H. Shi <sup>\*</sup>,  Y. Feng, and **X. Liu**. (2025) \
 
 
 - **Anderson Accelerated Operator Splitting Methods for Convex-nonconvex Regularized Problems**\
-Q. Heng<sup>+</sup>, **X. Liu**<sup>+</sup>,,  and E. C. Chi. (2025)\
+Q. Heng<sup>+</sup>, **X. Liu**<sup>+</sup>,  and E. C. Chi. (2025)\
 *Accepted at IEEE Open Journal of Signal Processing. [[link]](https://ieeexplore.ieee.org/document/11194222) [[code]](https://github.com/qhengncsu/AA_CNC)*
 
 
