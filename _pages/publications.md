@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-The sign * indicates supervised students; the sign <sup>+</sup> indicates equal contribution.
+The sign <sup>\*</sup> indicates supervised students; the sign <sup>+</sup> indicates equal contribution.
 
 [//]: #  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 
@@ -19,7 +19,7 @@ The sign * indicates supervised students; the sign <sup>+</sup> indicates equal 
 [//]: #  *In preparation*. 
 
 - **Transfer Learning for Robust Structured Regression with Bi-level Source Detection.**\
-H. Shi*,  Y. Feng, and **X. Liu**. (2025) \
+H. Shi <sup>\*</sup>,  Y. Feng, and **X. Liu**. (2025) \
 *Manuscript available upon request.*
 
 
