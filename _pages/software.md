@@ -5,6 +5,8 @@ permalink: /software/
 author_profile: true
 ---
 
+ - [TransL2E](https://github.com/Xiaoqian-Liu/TransL2E): R implementation of transfer learning for structured L2E regression.
+ 
  - [TL-SCP](https://github.com/Xiaoqian-Liu/TL-SCP): R implementation of the TL-SCP method for survival-based clustering of predictors.
  
  - [MMGN](https://github.com/Xiaoqian-Liu/MMGN): MATLAB/R implementations of the MMGN method for binary (1-bit) matrix completion.
