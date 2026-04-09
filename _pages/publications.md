@@ -20,7 +20,8 @@ The sign <sup>\*</sup> indicates supervised students; the sign <sup>+</sup> indi
 
 - **Transfer Learning for Robust Structured Regression with Bi-level Source Detection.**\
 H. Shi<sup>\*</sup>,  Y. Feng, and **X. Liu**. (2025) \
-*Manuscript available upon request.*
+*Submitted. [[axXiv]](https://arxiv.org/abs/2604.06659) [[code]](https://github.com/Xiaoqian-Liu/TransL2E)*
+
 
 
 - **Transfer Learning for Survival-based Clustering of Predictors with an Application to TP53 Mutation Annotation**\
@@ -31,7 +32,7 @@ H. Shi<sup>\*</sup>,  Y. Feng, and **X. Liu**. (2025) \
 
 - **Anderson Accelerated Operator Splitting Methods for Convex-nonconvex Regularized Problems**\
 Q. Heng<sup>+</sup>, **X. Liu**<sup>+</sup>,  and E. C. Chi. (2025)\
-*Accepted at IEEE Open Journal of Signal Processing. [[link]](https://ieeexplore.ieee.org/document/11194222) [[code]](https://github.com/qhengncsu/AA_CNC)*
+*IEEE Open Journal of Signal Processing. [[link]](https://ieeexplore.ieee.org/document/11194222) [[code]](https://github.com/qhengncsu/AA_CNC)*
 
 
 - **Subclonal Mutation Load Predicts Survival and Response to Immunotherapy in Cancers with Low to Moderate Tumor Mutation Burden**\
