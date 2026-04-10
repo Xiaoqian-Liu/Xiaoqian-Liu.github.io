@@ -26,7 +26,7 @@ H. Shi<sup>\*</sup>,  Y. Feng, and **X. Liu**. (2025) \
 
 - **Transfer Learning for Survival-based Clustering of Predictors with an Application to TP53 Mutation Annotation**\
 **X. Liu**,  H. Yan, H. Shi, E. Montellier, E. C. Chi, P. Hainaut, and W. Wang. (2025) \
-*Submitted. [[BibTex]](/files/BibTex/AACNC.txt) [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2025.10.06.680732v1) [[code]](https://github.com/Xiaoqian-Liu/TL-SCP)*
+*Submitted. [[BibTex]](/files/BibTex/TLSCP.txt) [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2025.10.06.680732v1) [[code]](https://github.com/Xiaoqian-Liu/TL-SCP)*
 
 
 
