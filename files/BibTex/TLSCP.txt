@@ -1,0 +1,8 @@
+@article{liu2025transfer,
+  title={Transfer Learning for Survival-based Clustering of Predictors with an Application to TP53 Mutation Annotation},
+  author={Liu, Xiaoqian and Yan, Hao and Shi, Haoming and Montellier, Emilie and Chi, Eric C and Hainaut, Pierre and Wang, Wenyi},
+  journal={bioRxiv},
+  pages={2025--10},
+  year={2025},
+  publisher={Cold Spring Harbor Laboratory}
+}
