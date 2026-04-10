@@ -32,22 +32,22 @@ H. Shi<sup>\*</sup>,  Y. Feng, and **X. Liu**. (2025) \
 
 - **Anderson Accelerated Operator Splitting Methods for Convex-nonconvex Regularized Problems**\
 Q. Heng<sup>+</sup>, **X. Liu**<sup>+</sup>,  and E. C. Chi. (2025)\
-*IEEE Open Journal of Signal Processing. [[link]](https://ieeexplore.ieee.org/document/11194222) [[code]](https://github.com/qhengncsu/AA_CNC)*
+*IEEE Open Journal of Signal Processing. [[BibTex]](/files/BibTex/AACNC.txt) [[link]](https://ieeexplore.ieee.org/document/11194222) [[code]](https://github.com/qhengncsu/AA_CNC)*
 
 
 - **Subclonal Mutation Load Predicts Survival and Response to Immunotherapy in Cancers with Low to Moderate Tumor Mutation Burden**\
 Y. Jiang, M. D. Montierth, K. Yu, S. Ji, S. Guo, Q. Tran, **X. Liu**, et al., W. Wang. (2024+) \
-*Submitted. [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2024.07.03.601939v2) [[code]](https://github.com/wwylab/CliPP)*
+*Submitted. [[BibTex]](/files/BibTex/CliPP.txt) [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2024.07.03.601939v2) [[code]](https://github.com/wwylab/CliPP)*
 
 
 - **A Deconvolution Framework that Uses Single-Cell Sequencing Plus a Small Benchmark Dataset for Improved Analysis of Cell-Type Ratios in Complex Tissue Samples**\
 S. Guo<sup>+</sup>, **X. Liu**<sup>+</sup>,  X. Cheng<sup>+</sup>, et al., W. Wang. (2025) \
-*Genome Research, 35(1), 147-161. [[link]](https://genome.cshlp.org/content/early/2025/01/03/gr.278822.123) [[code]](https://github.com/wwylab/DeMixSC) [[tutorial]](https://wwylab.github.io/DeMixSC/)*
+*Genome Research, 35(1), 147-161. [[BibTex]](/files/BibTex/DeMixSC.txt) [[link]](https://genome.cshlp.org/content/early/2025/01/03/gr.278822.123) [[code]](https://github.com/wwylab/DeMixSC) [[tutorial]](https://wwylab.github.io/DeMixSC/)*
 
 
 - **A Majorization-Minimization Gauss-Newton Method for 1-Bit Matrix Completion**\
 **X. Liu**,  X. Han, E. C. Chi, and B. Nadler. (2025)\
-*Journal of Computational and Graphical Statistics (JCGS), 1-13. [[link]](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2428610#abstract) [[code]](https://github.com/Xiaoqian-Liu/MMGN)*
+*Journal of Computational and Graphical Statistics (JCGS), 1-13. [[BibTex]](/files/BibTex/MMGN.txt) [[link]](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2428610#abstract) [[code]](https://github.com/Xiaoqian-Liu/MMGN)*
 
 
 - **A Convex-Nonconvex Strategy for Grouped Variable Selection**\
