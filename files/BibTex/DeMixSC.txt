@@ -1,0 +1,10 @@
+@article{guo2025deconvolution,
+  title={A deconvolution framework that uses single-cell sequencing plus a small benchmark data set for accurate analysis of cell type ratios in complex tissue samples},
+  author={Guo, Shuai and Liu, Xiaoqian and Cheng, Xuesen and Jiang, Yujie and Ji, Shuangxi and Liang, Qingnan and Koval, Andrew and Li, Yumei and Owen, Leah A and Kim, Ivana K and others},
+  journal={Genome research},
+  volume={35},
+  number={1},
+  pages={147--161},
+  year={2025},
+  publisher={Cold Spring Harbor Lab}
+}
