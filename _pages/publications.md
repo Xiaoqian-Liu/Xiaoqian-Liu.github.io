@@ -18,7 +18,7 @@ The sign <sup>\*</sup> indicates supervised students; the sign <sup>+</sup> indi
 [//]: #  **X. Liu**, E. C. Chi, and D. Papp. \
 [//]: #  *In preparation*. 
 
-- **Transfer Learning for Robust Structured Regression with Bi-level Source Detection.**\
+- **Transfer Learning for Robust Structured Regression with Bi-level Source Detection**\
 H. Shi<sup>\*</sup>,  Y. Feng, and **X. Liu**. (2025) \
 *Submitted. [[arXiv]](https://arxiv.org/abs/2604.06659) [[code]](https://github.com/Xiaoqian-Liu/TransL2E)*
 
