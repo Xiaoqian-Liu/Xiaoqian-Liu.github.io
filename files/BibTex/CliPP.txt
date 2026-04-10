@@ -1,0 +1,8 @@
+@article{jiang2024subclonal,
+  title={Subclonal mutation load predicts survival and response to immunotherapy in cancers with low to moderate tumor mutation burden},
+  author={Jiang, Yujie and Montierth, Matthew D and Yu, Kaixian and Ji, Shuangxi and Tran, Quang and Liu, Xiaoqian and Lal, Jessica C and Guo, Shuai and Wu, Aaron and Dai, Yaoyi and others},
+  journal={bioRxiv},
+  pages={2024--07},
+  year={2024},
+  publisher={Cold Spring Harbor Laboratory}
+}
