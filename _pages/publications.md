@@ -20,13 +20,13 @@ The sign <sup>\*</sup> indicates supervised students; the sign <sup>+</sup> indi
 
 
 - **An Interpretable and Scalable Framework for Evaluating Large Language Models**\
-X. Qu<sup>\*</sup>,  Q. Heng, H. Zeng, and **X. Liu**. (2025) \
+X. Qu<sup>\*</sup>,  Q. Heng, H. Zeng, and **X. Liu**. (2026) \
 *Submitted. [[arXiv]](https://arxiv.org/abs/2605.07046) [[code]](https://github.com/JackQuu/cBMM)*
 
 
 
 - **Transfer Learning for Robust Structured Regression with Bi-level Source Detection**\
-H. Shi<sup>\*</sup>,  Y. Feng, and **X. Liu**. (2025) \
+H. Shi<sup>\*</sup>,  Y. Feng, and **X. Liu**. (2026) \
 *Submitted. [[arXiv]](https://arxiv.org/abs/2604.06659) [[code]](https://github.com/Xiaoqian-Liu/TransL2E)*
 
 
