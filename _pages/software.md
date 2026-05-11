@@ -5,6 +5,8 @@ permalink: /software/
 author_profile: true
 ---
 
+ - [cBMM](https://github.com/JackQuu/cBMM): Python implementation of an efficient framework for LLM evaluation.
+ 
  - [TransL2E](https://github.com/Xiaoqian-Liu/TransL2E): R implementation of transfer learning for structured L2E regression.
  
  - [TL-SCP](https://github.com/Xiaoqian-Liu/TL-SCP): R implementation of the TL-SCP method for survival-based clustering of predictors.
