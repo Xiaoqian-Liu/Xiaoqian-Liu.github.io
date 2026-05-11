@@ -10,13 +10,14 @@ I am actively looking for highly motivated Ph.D. students to work on 1) method a
 
 
 ##  News
-[//]: # - **July 2024:** Collaborative work on [Subclonal Reconstruction using CliPP](https://www.biorxiv.org/content/10.1101/2024.07.03.601939v1) is now on bioRxiv.
 
-- **April 2026:** Our paper [Transfer Learning for Robust Structured Regression with Bi-level Source Detection](https://arxiv.org/abs/2604.06659) is now available on arXiv! 
+- **May 2026:** Our paper, [An Interpretable and Scalable Framework for Evaluating Large Language Models](https://arxiv.org/abs/2605.07046), is now available on arXiv! 
+- **April 2026:** Our paper, [Transfer Learning for Robust Structured Regression with Bi-level Source Detection](https://arxiv.org/abs/2604.06659), is now available on arXiv! 
 - **Oct. 2025:** Our work on [transfer learning for TP53 mutation annotation](https://www.biorxiv.org/content/10.1101/2025.10.06.680732v1) is now available on bioRxiv. 
-- **Sept. 2025:** Our paper [Anderson Accelerated Operator Splitting Methods for Convex-nonconvex Regularized Problems](https://arxiv.org/abs/2502.14269) was accepted by IEEE Open Journal of Signal Processing!
+- **Sept. 2025:** Our paper, [Anderson Accelerated Operator Splitting Methods for Convex-nonconvex Regularized Problems](https://arxiv.org/abs/2502.14269), was accepted by IEEE Open Journal of Signal Processing!
 - **July 2025:** Honored to receive UCR 2025-2026 Regents Faculty Fellowship (RFF) grant!  
-- **May 2025:** Honored to receive the IMS [FSML](https://fsmlims.wixsite.com/fsml25) Travel Award. 
+
+[//]: # - **May 2025:** Honored to receive the IMS [FSML](https://fsmlims.wixsite.com/fsml25) Travel Award. 
 
 [//]: # - **Nov. 2024:** Our [DeMixSC paper](https://www.biorxiv.org/content/10.1101/2023.10.10.561733v3) was accepted by Genome Research!
 
@@ -26,6 +27,7 @@ I am actively looking for highly motivated Ph.D. students to work on 1) method a
 
 [//]: # - **July 2024:**  Xiaoqian joined UCR Department of Statistics as a tenure-track Assistant Professor starting from July 1st, 2024. 
 
+[//]: # - **July 2024:** Collaborative work on [Subclonal Reconstruction using CliPP](https://www.biorxiv.org/content/10.1101/2024.07.03.601939v1) is now on bioRxiv.
 
 [//]: # - **Nov. 2023:** Our [DeMixSC work](https://www.biorxiv.org/content/10.1101/2023.10.10.561733v1) won the Best Poster Award at [The 2023 Leading Edge of Cancer Research Symposium](https://www.mdanderson.org/research/research-resources/conferences-seminars/symposium-on-cancer-research.html)!
 
