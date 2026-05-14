@@ -20,19 +20,19 @@ The sign <sup>\*</sup> indicates supervised students; the sign <sup>+</sup> indi
 
 
 - **An Interpretable and Scalable Framework for Evaluating Large Language Models**\
-X. Qu<sup>\*</sup>,  Q. Heng, H. Zeng, and **X. Liu**^<span>&#x2709;</span>^. (2026) \
+X. Qu<sup>\*</sup>,  Q. Heng, H. Zeng, and **X. Liu**<sup><span>&#x2709;</span><sup>. (2026) \
 *Submitted. [[arXiv]](https://arxiv.org/abs/2605.07046) [[code]](https://github.com/JackQuu/cBMM)*
 
 
 
 - **Transfer Learning for Robust Structured Regression with Bi-level Source Detection**\
-H. Shi<sup>\*</sup>,  Y. Feng, and **X. Liu**. (2026) \
+H. Shi<sup>\*</sup>,  Y. Feng, and **X. Liu**<sup><span>&#x2709;</span><sup>. (2026) \
 *Submitted. [[arXiv]](https://arxiv.org/abs/2604.06659) [[code]](https://github.com/Xiaoqian-Liu/TransL2E)*
 
 
 
 - **Transfer Learning for Survival-based Clustering of Predictors with an Application to TP53 Mutation Annotation**\
-**X. Liu**,  H. Yan, H. Shi, E. Montellier, E. C. Chi, P. Hainaut, and W. Wang. (2025) \
+**X. Liu**<sup><span>&#x2709;</span><sup>,  H. Yan, H. Shi, E. Montellier, E. C. Chi, P. Hainaut, and W. Wang<sup><span>&#x2709;</span><sup>. (2025) \
 *Submitted. [[BibTex]](/files/BibTex/TLSCP.txt) [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2025.10.06.680732v1) [[code]](https://github.com/Xiaoqian-Liu/TL-SCP)*
 
 
