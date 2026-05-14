@@ -20,7 +20,7 @@ The sign <sup>\*</sup> indicates supervised students; the sign <sup>+</sup> indi
 
 
 - **An Interpretable and Scalable Framework for Evaluating Large Language Models**\
-X. Qu<sup>\*</sup>,  Q. Heng, H. Zeng, and **X. Liu**. (2026) \
+X. Qu<sup>\*</sup>,  Q. Heng, H. Zeng, and **X. Liu**<span>&#x2709;</span></b>. (2026) \
 *Submitted. [[arXiv]](https://arxiv.org/abs/2605.07046) [[code]](https://github.com/JackQuu/cBMM)*
 
 
