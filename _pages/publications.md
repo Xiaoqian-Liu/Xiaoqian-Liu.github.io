@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-The sign <sup>\*</sup> indicates supervised students; the sign <sup>+</sup> indicates equal contribution.
+The sign <sup>\*</sup> indicates supervised students; the sign <sup>+</sup> indicates equal contribution; the sign <sup><span>&#x2709;</span></sup> indicates corresponding author.
 
 [//]: #  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 
@@ -20,13 +20,13 @@ The sign <sup>\*</sup> indicates supervised students; the sign <sup>+</sup> indi
 
 
 - **An Interpretable and Scalable Framework for Evaluating Large Language Models**\
-<ins>X. Qu</ins><sup>\*</sup>,  Q. Heng, H. Zeng, and **X. Liu**<sup><span>&#x2709;</span></sup>. (2026) \
+<ins>X. Qu</ins>,  Q. Heng, H. Zeng, and **X. Liu**<sup><span>&#x2709;</span></sup>. (2026) \
 *Submitted. [[arXiv]](https://arxiv.org/abs/2605.07046) [[code]](https://github.com/JackQuu/cBMM)*
 
 
 
 - **Transfer Learning for Robust Structured Regression with Bi-level Source Detection**\
-H. Shi<sup>\*</sup>,  Y. Feng, and **X. Liu**<sup><span>&#x2709;</span></sup>. (2026) \
+<ins>H. Shi</ins>,  Y. Feng, and **X. Liu**<sup><span>&#x2709;</span></sup>. (2026) \
 *Submitted. [[arXiv]](https://arxiv.org/abs/2604.06659) [[code]](https://github.com/Xiaoqian-Liu/TransL2E)*
 
 
