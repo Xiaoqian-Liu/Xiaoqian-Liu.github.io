@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-The sign <sup>\*</sup> indicates supervised students; the sign <sup>+</sup> indicates equal contribution; the sign <sup><span>&#x2709;</span></sup> indicates corresponding author.
+The sign <ins></ins> indicates supervised students; the sign <sup>+</sup> indicates equal contribution; the sign <sup><span>&#x2709;</span></sup> indicates corresponding author.
 
 [//]: #  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 
