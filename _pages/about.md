@@ -10,7 +10,7 @@ I am actively looking for highly motivated Ph.D. students to work on 1) method a
 
 
 ##  News
-
+- **June 2026:** Congratulations to Xinhao on receiving the Florence Nightingale David Award for Insightful Statistical Application at the Florence Nightingale David Research Symposium!
 - **June 2026:** Congratulations to Xinhao on receiving the Morris J. Garber Award!
 - **June 2026:** Honored to receive the Rho Sigma Rao Faculty Award!    
 - **May 2026:** Our paper, [An Interpretable and Scalable Framework for Evaluating Large Language Models](https://arxiv.org/abs/2605.07046), is now available on arXiv! 
