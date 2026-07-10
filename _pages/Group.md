@@ -4,7 +4,7 @@ title: "Group Members"
 ---
 
 ### PhD Students
-- Xinhao Qu, PhD student in Statistics at UC Riverside
+- [Xinhao Qu](/files/CV_Xinhao.pdf), PhD student in Statistics at UC Riverside
      - 02/2026 -- present
 - Jordyn Niemiec, PhD student in GGB at UC Riverside
      - Co-advised with Prof. Ernest Martinez 
