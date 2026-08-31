@@ -4,17 +4,19 @@ title: "About me "
 ---
 
 I am a tenure-track assistant professor in the [Department of Statistics](https://statistics.ucr.edu/) at the [University of California, Riverside](https://www.ucr.edu/). I am also a faculty member of the UCR [Graduate Program in Genetics, Genomics & Bioinformatics (GGB)](https://genetics.ucr.edu/). Previously, I was a postdoctoral fellow at the University of Texas MD Anderson Cancer Center from 2022 to 2024. I received my Ph.D. in Statistics from North Carolina State University in 2022. 
+My research develops statistical and computational methods at the intersection of statistical machine learning, computational statistics, and numerical optimization, motivated by problems in artificial intelligence, bioinformatics, and cancer biology. 
 
 [//]: # - My research interests lie broadly in statistical machine learning, computational statistics, and numerical optimization, with applications in bioinformatics and cancer biology. My recent work focus on 1) LLM/AI evaluation, 2) transfer learning, and 3) cancer biology applications including study of MYC acetylation in breast cancer and statistical modeling of TP53 to decode LFS heterogeneity.  
 
-My research develops statistical and computational methods at the intersection of statistical machine learning, computational statistics, and numerical optimization, motivated by problems in artificial intelligence, bioinformatics, and cancer biology. 
-A central focus of my current research is developing rigorous methods for evaluating large language models and other AI systems. I also develop transfer learning methods that leverage related but heterogeneous datasets to improve statistical inference and prediction. In parallel, I collaborate on statistical and computational problems in cancer biology and genomics, including the study of MYC acetylation in breast cancer and the modeling of germline TP53 variation to better understand clinical heterogeneity in Li-Fraumeni syndrome.
+
+[//]: # - A central focus of my current research is developing rigorous methods for evaluating large language models and other AI systems. I also develop transfer learning methods that leverage related but heterogeneous datasets to improve statistical inference and prediction. In parallel, I collaborate on statistical and computational problems in cancer biology and genomics, including the study of MYC acetylation in breast cancer and the modeling of germline TP53 variation to better understand clinical heterogeneity in Li-Fraumeni syndrome.
 
 [//]: # - I am actively looking for highly motivated Ph.D. students to work on 1) method and algorithm development in statistics and machine learning, 2) LLM evaluation, and 3) applications in cancer biology. Please feel free to send me an email with your CV if you are interested. 
 
 I am actively looking for highly motivated Ph.D. students from Statistics and GGB. Statistics students would primarily work on LLM/AI evaluation or transfer learning, while GGB students would work on collaborative projects in statistical genomics and cancer biology. Interested students from either program are welcome to email me their CV and a brief description of their research interests.
 
 ##  News
+- **June 2026:** Honored to receive the [UCR RED Small Grant Award](https://research.ucr.edu/funding)!
 - **June 2026:** Congratulations to Xinhao on receiving the Florence Nightingale David Award for Insightful Statistical Application at the Florence Nightingale David Research Symposium!
 - **June 2026:** Congratulations to Xinhao on receiving the Morris J. Garber Award!
 - **June 2026:** Honored to receive the Rho Sigma Rao Faculty Award!    
