@@ -20,6 +20,7 @@ I am actively looking for highly motivated Ph.D. students from Statistics and GG
 - **June 2026:** Honored to receive the Rho Sigma Rao Faculty Award!    
 - **May 2026:** Our paper, [An Interpretable and Scalable Framework for Evaluating Large Language Models](https://arxiv.org/abs/2605.07046), is now available on arXiv! 
 - **April 2026:** Our paper, [Transfer Learning for Robust Structured Regression with Bi-level Source Detection](https://arxiv.org/abs/2604.06659), is now available on arXiv! 
+
 [//]: # - **Oct. 2025:** Our work on [transfer learning for TP53 mutation annotation](https://www.biorxiv.org/content/10.1101/2025.10.06.680732v1) is now available on bioRxiv. 
 
 [//]: # - **Sept. 2025:** Our paper, [Anderson Accelerated Operator Splitting Methods for Convex-nonconvex Regularized Problems](https://arxiv.org/abs/2502.14269), was accepted by IEEE Open Journal of Signal Processing!
