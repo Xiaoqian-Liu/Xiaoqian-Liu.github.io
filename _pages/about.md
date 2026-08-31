@@ -3,11 +3,15 @@ permalink: /
 title: "About me "
 ---
 
-I am a tenure-track assistant professor in the [Department of Statistics](https://statistics.ucr.edu/) at the [University of California, Riverside](https://www.ucr.edu/). I am also a faculty member of the UCR Graduate Program in [Genetics, Genomics & Bioinformatics](https://genetics.ucr.edu/). Previously, I was a postdoctoral fellow at the University of Texas MD Anderson Cancer Center from 2022 to 2024. I received my Ph.D. in Statistics from North Carolina State University in 2022. 
-My research interests lie broadly in statistical machine learning, computational statistics, and numerical optimization, with applications in (1) bioinformatics and cancer biology, and (2) LLM evaluation.
+I am a tenure-track assistant professor in the [Department of Statistics](https://statistics.ucr.edu/) at the [University of California, Riverside](https://www.ucr.edu/). I am also a faculty member of the UCR [Graduate Program in Genetics, Genomics & Bioinformatics (GGB)](https://genetics.ucr.edu/). Previously, I was a postdoctoral fellow at the University of Texas MD Anderson Cancer Center from 2022 to 2024. I received my Ph.D. in Statistics from North Carolina State University in 2022. 
 
-I am actively looking for highly motivated Ph.D. students to work on 1) method and algorithm development in statistics and machine learning, 2) LLM evaluation, and 3) applications in cancer biology. Please feel free to send me an email with your CV if you are interested. 
+[//]: # - My research interests lie broadly in statistical machine learning, computational statistics, and numerical optimization, with applications in bioinformatics and cancer biology. My recent work focus on 1) LLM/AI evaluation, 2) transfer learning, and 3) cancer biology applications including study of MYC acetylation in breast cancer and statistical modeling of TP53 to decode LFS heterogeneity.  
 
+My research develops statistical and computational methods at the intersection of statistical machine learning, computational statistics, and numerical optimization, motivated by problems in artificial intelligence, bioinformatics, and cancer biology. My current methodological work focuses primarily on the evaluation and reliability of large language models and other AI systems, as well as transfer learning and data integration across heterogeneous populations and datasets. I am interested in developing principled methods for evaluating complex AI systems and for transferring information across related but non-identical data sources. I also collaborate on statistical and computational problems in cancer biology and genomics, including the study of MYC acetylation in breast cancer and the modeling of germline TP53 variation to better understand clinical heterogeneity in Li-Fraumeni syndrome.
+
+[//]: # - I am actively looking for highly motivated Ph.D. students to work on 1) method and algorithm development in statistics and machine learning, 2) LLM evaluation, and 3) applications in cancer biology. Please feel free to send me an email with your CV if you are interested. 
+
+I am actively looking for highly motivated Ph.D. students from Statistics and GGB. Statistics students would primarily work on LLM/AI evaluation or transfer learning, while GGB students would work on collaborative projects in statistical genomics and cancer biology. Interested students from either program are welcome to email me their CV and a brief description of their research interests.
 
 ##  News
 - **June 2026:** Congratulations to Xinhao on receiving the Florence Nightingale David Award for Insightful Statistical Application at the Florence Nightingale David Research Symposium!
@@ -15,7 +19,7 @@ I am actively looking for highly motivated Ph.D. students to work on 1) method a
 - **June 2026:** Honored to receive the Rho Sigma Rao Faculty Award!    
 - **May 2026:** Our paper, [An Interpretable and Scalable Framework for Evaluating Large Language Models](https://arxiv.org/abs/2605.07046), is now available on arXiv! 
 - **April 2026:** Our paper, [Transfer Learning for Robust Structured Regression with Bi-level Source Detection](https://arxiv.org/abs/2604.06659), is now available on arXiv! 
-- **Oct. 2025:** Our work on [transfer learning for TP53 mutation annotation](https://www.biorxiv.org/content/10.1101/2025.10.06.680732v1) is now available on bioRxiv. 
+[//]: # - **Oct. 2025:** Our work on [transfer learning for TP53 mutation annotation](https://www.biorxiv.org/content/10.1101/2025.10.06.680732v1) is now available on bioRxiv. 
 
 [//]: # - **Sept. 2025:** Our paper, [Anderson Accelerated Operator Splitting Methods for Convex-nonconvex Regularized Problems](https://arxiv.org/abs/2502.14269), was accepted by IEEE Open Journal of Signal Processing!
 
