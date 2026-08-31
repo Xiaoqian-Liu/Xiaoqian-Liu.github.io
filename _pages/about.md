@@ -4,6 +4,7 @@ title: "About me "
 ---
 
 I am a tenure-track assistant professor in the [Department of Statistics](https://statistics.ucr.edu/) at the [University of California, Riverside](https://www.ucr.edu/). I am also a faculty member of the UCR [Graduate Program in Genetics, Genomics & Bioinformatics (GGB)](https://genetics.ucr.edu/). Previously, I was a postdoctoral fellow at the University of Texas MD Anderson Cancer Center from 2022 to 2024. I received my Ph.D. in Statistics from North Carolina State University in 2022. 
+
 [//]: # - My research develops statistical and computational methods at the intersection of statistical machine learning, computational statistics, and numerical optimization, motivated by problems in artificial intelligence, bioinformatics, and cancer biology. 
 
 My research lies at the intersection of statistical machine learning, computational statistics, and numerical optimization. A central focus of my current research is the development of principled methods for evaluating large language models and other AI systems. I also develop transfer learning methods that leverage related but heterogeneous datasets to improve statistical inference and prediction. In parallel, I collaborate on problems in cancer biology and genomics, including MYC acetylation in breast cancer and TP53-associated clinical heterogeneity in Li-Fraumeni syndrome.
