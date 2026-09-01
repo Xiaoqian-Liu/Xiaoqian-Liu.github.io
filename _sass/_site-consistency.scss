@@ -35,6 +35,40 @@
   line-height: 1.5;
 }
 
+// Compact, scannable date-and-announcement rows for homepage news.
+.news-inline {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+  li {
+    display: grid;
+    grid-template-columns: 6.8rem minmax(0, 1fr);
+    gap: 1rem;
+    margin: 0;
+    padding: 0.6rem 0;
+    border-bottom: 1px solid $border-color;
+    line-height: 1.5;
+  }
+
+  time {
+    color: $text-color;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+
+  span {
+    color: $gray;
+  }
+}
+
+@media (max-width: 560px) {
+  .news-inline li {
+    grid-template-columns: 1fr;
+    gap: 0.15rem;
+  }
+}
+
 // Keep embedded documents aligned to the same content column.
 .page__content iframe,
 .archive iframe {

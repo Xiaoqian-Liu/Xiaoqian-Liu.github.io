@@ -21,13 +21,34 @@ My research lies at the intersection of statistical machine learning, computatio
 
 I am actively looking for highly motivated Ph.D. students from Statistics and GGB. Interested students are welcome to email me their CV and a brief description of their research interests. 
 
-##  News
-- **June 2026:** Honored to receive the [UCR RED Small Grant Award](https://research.ucr.edu/funding)!
-- **June 2026:** Congratulations to Xinhao on receiving the Florence Nightingale David Award for Insightful Statistical Application at the Florence Nightingale David Research Symposium!
-- **June 2026:** Congratulations to Xinhao on receiving the Morris J. Garber Award!
-- **June 2026:** Honored to receive the Rho Sigma Rao Faculty Award!    
-- **May 2026:** Our paper, [An Interpretable and Scalable Framework for Evaluating Large Language Models](https://arxiv.org/abs/2605.07046), is now available on arXiv! 
-- **April 2026:** Our paper, [Transfer Learning for Robust Structured Regression with Bi-level Source Detection](https://arxiv.org/abs/2604.06659), is now available on arXiv! 
+## News
+
+<ul class="news-inline">
+  <li>
+    <time>June 2026</time>
+    <span>Honored to receive the <a href="https://research.ucr.edu/funding">UCR RED Small Grant Award</a>!</span>
+  </li>
+  <li>
+    <time>June 2026</time>
+    <span>Congratulations to Xinhao on receiving the Florence Nightingale David Award for Insightful Statistical Application at the Florence Nightingale David Research Symposium!</span>
+  </li>
+  <li>
+    <time>June 2026</time>
+    <span>Congratulations to Xinhao on receiving the Morris J. Garber Award!</span>
+  </li>
+  <li>
+    <time>June 2026</time>
+    <span>Honored to receive the Rho Sigma Rao Faculty Award!</span>
+  </li>
+  <li>
+    <time>May 2026</time>
+    <span>Our paper, <a href="https://arxiv.org/abs/2605.07046">An Interpretable and Scalable Framework for Evaluating Large Language Models</a>, is now available on arXiv!</span>
+  </li>
+  <li>
+    <time>April 2026</time>
+    <span>Our paper, <a href="https://arxiv.org/abs/2604.06659">Transfer Learning for Robust Structured Regression with Bi-level Source Detection</a>, is now available on arXiv!</span>
+  </li>
+</ul>
 
 [//]: # - **Oct. 2025:** Our work on [transfer learning for TP53 mutation annotation](https://www.biorxiv.org/content/10.1101/2025.10.06.680732v1) is now available on bioRxiv. 
 
@@ -59,8 +80,6 @@ I am actively looking for highly motivated Ph.D. students from Statistics and GG
 [//]: # - **Feb. 2023:** Joint work with Stefan Wild and Kwassi Joseph Dzahini on zeroth-order optimization won the Best Poster Prize at [2023 SIAM Conference on Computational Science and Engineering](https://www.siam.org/conferences/cm/conference/cse23)!
 
 [//]: #- **Jan. 2023:** I won the [UF Statistics 2023 Winter Workshop](https://informatics.research.ufl.edu/event/statistics-annual-winter-workshop-2023/) Travel Award and will be presenting a work on 1-bit matrix completion.
-
-
 
 
 
