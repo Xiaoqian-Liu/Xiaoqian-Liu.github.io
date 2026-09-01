@@ -68,7 +68,6 @@ Y. Jiang, M. D. Montierth, K. Yu, S. Ji, S. Guo, Q. Tran, **X. Liu**, et al., W.
 
 - **An Interpretable Machine Learning Model to Classify Coronary Bifurcation Lesions**<br>
 **X. Liu**, M. Vardhan, Q. Wen, A. Das, A. Randles, and E. C. Chi. (2021)<br>
-In 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), pp. 4432-4435. IEEE.<br>
-*[[BibTex]](/files/BibTex/EMBC.txt) [[link]](https://ieeexplore.ieee.org/document/9631082)*
+*In 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), pp. 4432-4435. IEEE. [[BibTex]](/files/BibTex/EMBC.txt) [[link]](https://ieeexplore.ieee.org/document/9631082)*
 
 </div>
