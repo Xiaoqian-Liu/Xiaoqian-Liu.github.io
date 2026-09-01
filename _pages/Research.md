@@ -13,7 +13,7 @@ hide_title: true
 <ol class="research-interests">
   <li><span>Evaluation of large language models</span></li>
   <li><span>Transfer learning and data integration</span></li>
-  <li><span>Bioinformatics and cancer biology</span></li>
+  <li><span>Bioinformatics and  cancer biology</span></li>
 </ol>
 
 ## Publications and Preprints
@@ -60,13 +60,11 @@ Y. Jiang, M. D. Montierth, K. Yu, S. Ji, S. Guo, Q. Tran, **X. Liu**, et al., W.
 
 - **A Sharper Computational Tool for L2E Regression**<br>
 **X. Liu**, E. C. Chi, and K. L. Lange. (2023) <br>
-Technometrics, 65(1), 117-126.<br>
-*[[BibTex]](/files/BibTex/L2E.txt) [[link]](https://www.tandfonline.com/doi/full/10.1080/00401706.2022.2118172) [[code]](https://jocelynchi.github.io/L2E-package-demo/)*
+*Technometrics, 65(1), 117-126. [[BibTex]](/files/BibTex/L2E.txt) [[link]](https://www.tandfonline.com/doi/full/10.1080/00401706.2022.2118172) [[code]](https://jocelynchi.github.io/L2E-package-demo/)*
 
 - **Revisiting Convexity-Preserving Signal Recovery with the Linearly Involved GMC Penalty**<br>
 **X. Liu**, and E. C. Chi. (2022)<br>
-Pattern Recognition Letters, 156, 60-66. <br>
-*[[BibTex]](/files/BibTex/LIGMC.txt) [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0167865522000381)*
+*Pattern Recognition Letters, 156, 60-66. [[BibTex]](/files/BibTex/LIGMC.txt) [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0167865522000381)*
 
 - **An Interpretable Machine Learning Model to Classify Coronary Bifurcation Lesions**<br>
 **X. Liu**, M. Vardhan, Q. Wen, A. Das, A. Randles, and E. C. Chi. (2021)<br>
