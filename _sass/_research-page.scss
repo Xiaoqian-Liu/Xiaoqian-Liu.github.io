@@ -40,26 +40,32 @@
     list-style: none;
 
     > li {
-      margin: 0.4rem 0 0.6rem;
-      padding: 0;
-      border-bottom: 0;
-      font-size: 0.92rem;
-      line-height: 1.36;
-
-      & + li {
-        margin-top: 1rem;
-      }
+      margin: 0;
+      padding: 0.5rem 0 0.6rem;
+      border-bottom: 1px solid $border-color;
 
       // Kramdown wraps most publication entries in a paragraph. Reset the
       // theme's default paragraph margin so it does not double the spacing.
       > p {
         margin: 0 !important;
+        color: $gray;
+        font-size: 0.88rem;
+        line-height: 1.55;
       }
 
       > strong:first-child,
       > p > strong:first-child {
+        display: block;
+        margin-bottom: 0.25rem;
         color: $text-color;
         font-size: 1rem;
+        line-height: 1.45;
+      }
+
+      // The title is now block-level, so its original hard break is redundant.
+      > strong:first-child + br,
+      > p > strong:first-child + br {
+        display: none;
       }
     }
   }
