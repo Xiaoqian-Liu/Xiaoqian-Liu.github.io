@@ -8,7 +8,7 @@ hide_title: true
 
 <div class="research-page" markdown="1">
 
-## Research interests
+## Research Interests
 
 <ol class="research-interests">
   <li><span>Evaluation of large language models</span></li>
