@@ -13,7 +13,7 @@ hide_title: true
 <ol class="research-interests">
   <li><span>Evaluation of large language models</span></li>
   <li><span>Transfer learning and data integration</span></li>
-  <li><span>Cancer biology and genomics</span></li>
+  <li><span>Bioinformatics and cancer biology</span></li>
 </ol>
 
 ## Publications and Preprints
