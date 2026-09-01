@@ -38,15 +38,4 @@ hide_title: true
   </li>
 </ul>
 
-## Renmin University of China
 
-<ul class="talk-list">
-  <li>
-    <strong>Time Series Analysis</strong>
-    <span>Teaching Assistant · Fall 2017</span>
-  </li>
-  <li>
-    <strong>Stochastic Analysis</strong>
-    <span>Teaching Assistant · Spring 2016</span>
-  </li>
-</ul>
