@@ -1,0 +1,44 @@
+/* ==========================================================================
+   Shared page rhythm
+   ========================================================================== */
+
+// Use the same readable content measure regardless of whether a page uses the
+// theme's `single` or `archive` layout.
+.page__content,
+.archive {
+  max-width: 850px;
+}
+
+// Match ordinary page section headings to the Research and Talks pages.
+.page__content > h2 {
+  margin-top: 2.4rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.55rem;
+  border-bottom: 1px solid $border-color;
+  font-size: 1.42rem;
+}
+
+.page__content > h2:first-child {
+  margin-top: 0.25rem;
+}
+
+.page__content > p {
+  line-height: 1.55;
+}
+
+.page__content > ul {
+  margin-top: 0;
+}
+
+.page__content > ul > li {
+  margin-bottom: 0.45rem;
+  line-height: 1.5;
+}
+
+// Keep embedded documents aligned to the same content column.
+.page__content iframe,
+.archive iframe {
+  display: block;
+  width: 100%;
+  border: 0;
+}

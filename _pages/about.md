@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "About me "
+hide_title: true
 ---
 
 I am a tenure-track assistant professor in the [Department of Statistics](https://statistics.ucr.edu/) at the [University of California, Riverside](https://www.ucr.edu/). I am also a faculty member of the UCR [Graduate Program in Genetics, Genomics & Bioinformatics (GGB)](https://genetics.ucr.edu/). Previously, I was a postdoctoral fellow at the University of Texas MD Anderson Cancer Center from 2022 to 2024. I received my Ph.D. in Statistics from North Carolina State University in 2022. 
@@ -58,7 +59,6 @@ I am actively looking for highly motivated Ph.D. students from Statistics and GG
 [//]: # - **Feb. 2023:** Joint work with Stefan Wild and Kwassi Joseph Dzahini on zeroth-order optimization won the Best Poster Prize at [2023 SIAM Conference on Computational Science and Engineering](https://www.siam.org/conferences/cm/conference/cse23)!
 
 [//]: #- **Jan. 2023:** I won the [UF Statistics 2023 Winter Workshop](https://informatics.research.ufl.edu/event/statistics-annual-winter-workshop-2023/) Travel Award and will be presenting a work on 1-bit matrix completion.
-
 
 
 
