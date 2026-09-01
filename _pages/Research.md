@@ -11,8 +11,8 @@ hide_title: true
 ## Research interests
 
 <ol class="research-interests">
-  <li><span>LLM/AI evaluation</span></li>
-  <li><span>Transfer learning/Data integration</span></li>
+  <li><span>Evaluation of large language models</span></li>
+  <li><span>Transfer learning and data integration</span></li>
   <li><span>Cancer biology and genomics</span></li>
 </ol>
 
@@ -48,13 +48,11 @@ S. Guo<sup>+</sup>, **X. Liu**<sup>+</sup>, X. Cheng<sup>+</sup>, et al., W. Wan
 **X. Liu**, X. Han, E. C. Chi, and B. Nadler. (2025)<br>
 *Journal of Computational and Graphical Statistics (JCGS), 1-13. [[BibTex]](/files/BibTex/MMGN.txt) [[link]](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2428610#abstract) [[code]](https://github.com/Xiaoqian-Liu/MMGN)*
 
-### 2024
+### 2021–2024
 
 - **Subclonal Mutation Load Predicts Survival and Response to Immunotherapy in Cancers with Low to Moderate Tumor Mutation Burden**<br>
 Y. Jiang, M. D. Montierth, K. Yu, S. Ji, S. Guo, Q. Tran, **X. Liu**, et al., W. Wang. (2024+) <br>
 *Submitted. [[BibTex]](/files/BibTex/CliPP.txt) [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2024.07.03.601939v2) [[code]](https://github.com/wwylab/CliPP)*
-
-### 2023
 
 - **A Convex-Nonconvex Strategy for Grouped Variable Selection**<br>
 **X. Liu**, A. J. Molstad, and E. C. Chi. (2023) <br>
@@ -65,14 +63,10 @@ Y. Jiang, M. D. Montierth, K. Yu, S. Ji, S. Guo, Q. Tran, **X. Liu**, et al., W.
 Technometrics, 65(1), 117-126.<br>
 *[[BibTex]](/files/BibTex/L2E.txt) [[link]](https://www.tandfonline.com/doi/full/10.1080/00401706.2022.2118172) [[code]](https://jocelynchi.github.io/L2E-package-demo/)*
 
-### 2022
-
 - **Revisiting Convexity-Preserving Signal Recovery with the Linearly Involved GMC Penalty**<br>
 **X. Liu**, and E. C. Chi. (2022)<br>
 Pattern Recognition Letters, 156, 60-66. <br>
 *[[BibTex]](/files/BibTex/LIGMC.txt) [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0167865522000381)*
-
-### 2021
 
 - **An Interpretable Machine Learning Model to Classify Coronary Bifurcation Lesions**<br>
 **X. Liu**, M. Vardhan, Q. Wen, A. Das, A. Randles, and E. C. Chi. (2021)<br>

@@ -21,7 +21,7 @@
     display: flex;
     align-items: center;
     gap: 0.8rem;
-    margin: 2.1rem 0 0.85rem;
+    margin: 1rem 0 0.1rem;
     color: $link-color;
     font-size: 1.05rem;
     letter-spacing: 0.02em;
@@ -41,10 +41,20 @@
 
     > li {
       margin: 0;
-      padding: 1rem 0 1.15rem;
-      border-bottom: 1px solid $border-color;
-      font-size: 0.94rem;
-      line-height: 1.62;
+      padding: 0;
+      border-bottom: 0;
+      font-size: 0.92rem;
+      line-height: 1.36;
+
+      & + li {
+        margin-top: 1rem;
+      }
+
+      // Kramdown wraps most publication entries in a paragraph. Reset the
+      // theme's default paragraph margin so it does not double the spacing.
+      > p {
+        margin: 0 !important;
+      }
 
       > strong:first-child,
       > p > strong:first-child {
