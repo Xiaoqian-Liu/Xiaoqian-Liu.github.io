@@ -43,16 +43,18 @@
 
   li {
     display: grid;
-    grid-template-columns: 6.8rem minmax(0, 1fr);
-    gap: 1rem;
+    grid-template-columns: 6.1rem minmax(0, 1fr);
+    gap: 0.7rem;
     margin: 0;
-    padding: 0.6rem 0;
+    padding: 0.38rem 0;
     border-bottom: 1px solid $border-color;
-    line-height: 1.5;
+    font-size: 0.9rem;
+    line-height: 1.4;
   }
 
   time {
     color: $text-color;
+    font-size: 0.88rem;
     font-weight: 700;
     white-space: nowrap;
   }
@@ -65,7 +67,8 @@
 @media (max-width: 560px) {
   .news-inline li {
     grid-template-columns: 1fr;
-    gap: 0.15rem;
+    gap: 0.1rem;
+    padding: 0.45rem 0;
   }
 }
 
