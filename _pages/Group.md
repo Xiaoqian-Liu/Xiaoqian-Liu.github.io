@@ -1,6 +1,7 @@
 ---
 permalink: /Group/
 title: "Group Members"
+hide_title: true
 ---
 
 ### PhD Students
@@ -11,4 +12,3 @@ title: "Group Members"
      - 01/2026 -- present
 - Haoming Shi, PhD student in Statistics at Rice University
      - 02/2025 -- present
-

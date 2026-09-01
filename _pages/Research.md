@@ -1,26 +1,82 @@
 ---
 permalink: /research/
 title: "Research"
+layout: archive
+author_profile: true
+hide_title: true
 ---
 
-### University of California,  Riverside
-- STAT 160A: Elements of Probability and Statistical Theory
-     - Instructor, Fall 2024
-- STAT 160B: Elements of Probability and Statistical Theory
-     - Instructor, Winter 2025
+<div class="research-page" markdown="1">
 
-### North Carolina State University
-- ST779: Advanced Probability for Statistical Inference
-     - *Teaching Assistant*, Spring 2022
-- ST517: Applied Statistical Methods
-     - *Teaching Assistant*, Fall 2021
-- ST370: Probability and Statistics for Engineers
-     - *Teaching Assistant*, Fall 2018, Spring 2019, Fall 2019
-     
-### Renmin University of China
- - Time Series Analysis
-     - *Teaching Assistant*, Fall 2017
-- Stochastic Analysis
-     - *Teaching Assistant*, Spring 2016
+## Research interests
 
+<ol class="research-interests">
+  <li><span>LLM/AI evaluation</span></li>
+  <li><span>Transfer learning/Data integration</span></li>
+  <li><span>Cancer biology and genomics</span></li>
+</ol>
 
+## Publications and Preprints
+
+<p class="publication-note"><ins>Underline</ins> indicates supervised students; <sup>+</sup> indicates equal contribution; <sup><span>&#x2709;</span></sup> indicates corresponding author.</p>
+
+### 2026
+
+- **An Interpretable and Scalable Framework for Evaluating Large Language Models**<br>
+<ins>X. Qu</ins>, Q. Heng, H. Zeng, and **X. Liu**<sup><span>&#x2709;</span></sup>. (2026) <br>
+*Submitted. [[arXiv]](https://arxiv.org/abs/2605.07046) [[code]](https://github.com/JackQuu/cBMM)*
+
+- **Transfer Learning for Robust Structured Regression with Bi-level Source Detection**<br>
+<ins>H. Shi</ins>, Y. Feng, and **X. Liu**<sup><span>&#x2709;</span></sup>. (2026) <br>
+*Submitted. [[arXiv]](https://arxiv.org/abs/2604.06659) [[code]](https://github.com/Xiaoqian-Liu/TransL2E)*
+
+### 2025
+
+- **Transfer Learning for Survival-based Clustering of Predictors with an Application to TP53 Mutation Annotation**<br>
+**X. Liu**<sup><span>&#x2709;</span></sup>, H. Yan, H. Shi, E. Montellier, E. C. Chi, P. Hainaut, and W. Wang<sup><span>&#x2709;</span></sup>. (2025) <br>
+*Submitted. [[BibTex]](/files/BibTex/TLSCP.txt) [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2025.10.06.680732v1) [[code]](https://github.com/Xiaoqian-Liu/TL-SCP)*
+
+- **Anderson Accelerated Operator Splitting Methods for Convex-nonconvex Regularized Problems**<br>
+Q. Heng<sup>+</sup>, **X. Liu**<sup>+</sup>, and E. C. Chi. (2025)<br>
+*IEEE Open Journal of Signal Processing. [[BibTex]](/files/BibTex/AACNC.txt) [[link]](https://ieeexplore.ieee.org/document/11194222) [[code]](https://github.com/qhengncsu/AA_CNC)*
+
+- **A Deconvolution Framework that Uses Single-Cell Sequencing Plus a Small Benchmark Dataset for Improved Analysis of Cell-Type Ratios in Complex Tissue Samples**<br>
+S. Guo<sup>+</sup>, **X. Liu**<sup>+</sup>, X. Cheng<sup>+</sup>, et al., W. Wang. (2025) <br>
+*Genome Research, 35(1), 147-161. [[BibTex]](/files/BibTex/DeMixSC.txt) [[link]](https://genome.cshlp.org/content/early/2025/01/03/gr.278822.123) [[code]](https://github.com/wwylab/DeMixSC) [[tutorial]](https://wwylab.github.io/DeMixSC/)*
+
+- **A Majorization-Minimization Gauss-Newton Method for 1-Bit Matrix Completion**<br>
+**X. Liu**, X. Han, E. C. Chi, and B. Nadler. (2025)<br>
+*Journal of Computational and Graphical Statistics (JCGS), 1-13. [[BibTex]](/files/BibTex/MMGN.txt) [[link]](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2428610#abstract) [[code]](https://github.com/Xiaoqian-Liu/MMGN)*
+
+### 2024
+
+- **Subclonal Mutation Load Predicts Survival and Response to Immunotherapy in Cancers with Low to Moderate Tumor Mutation Burden**<br>
+Y. Jiang, M. D. Montierth, K. Yu, S. Ji, S. Guo, Q. Tran, **X. Liu**, et al., W. Wang. (2024+) <br>
+*Submitted. [[BibTex]](/files/BibTex/CliPP.txt) [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2024.07.03.601939v2) [[code]](https://github.com/wwylab/CliPP)*
+
+### 2023
+
+- **A Convex-Nonconvex Strategy for Grouped Variable Selection**<br>
+**X. Liu**, A. J. Molstad, and E. C. Chi. (2023) <br>
+*Electronic Journal of Statistics, 17(2), 2912-2961. [[BibTex]](/files/BibTex/grGMC.txt) [[link]](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-17/issue-2/A-convex-nonconvex-strategy-for-grouped-variable-selection/10.1214/23-EJS2167.full) [[code]](https://github.com/Xiaoqian-Liu/GMC)*
+
+- **A Sharper Computational Tool for L2E Regression**<br>
+**X. Liu**, E. C. Chi, and K. L. Lange. (2023) <br>
+Technometrics, 65(1), 117-126.<br>
+*[[BibTex]](/files/BibTex/L2E.txt) [[link]](https://www.tandfonline.com/doi/full/10.1080/00401706.2022.2118172) [[code]](https://jocelynchi.github.io/L2E-package-demo/)*
+
+### 2022
+
+- **Revisiting Convexity-Preserving Signal Recovery with the Linearly Involved GMC Penalty**<br>
+**X. Liu**, and E. C. Chi. (2022)<br>
+Pattern Recognition Letters, 156, 60-66. <br>
+*[[BibTex]](/files/BibTex/LIGMC.txt) [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0167865522000381)*
+
+### 2021
+
+- **An Interpretable Machine Learning Model to Classify Coronary Bifurcation Lesions**<br>
+**X. Liu**, M. Vardhan, Q. Wen, A. Das, A. Randles, and E. C. Chi. (2021)<br>
+In 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), pp. 4432-4435. IEEE.<br>
+*[[BibTex]](/files/BibTex/EMBC.txt) [[link]](https://ieeexplore.ieee.org/document/9631082)*
+
+</div>

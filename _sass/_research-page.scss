@@ -1,0 +1,113 @@
+/* ==========================================================================
+   Research page
+   ========================================================================== */
+
+.research-page {
+  max-width: 850px;
+
+  > h2 {
+    margin-top: 2.4rem;
+    margin-bottom: 1.15rem;
+    padding-bottom: 0.55rem;
+    border-bottom: 1px solid $border-color;
+    font-size: 1.42rem;
+  }
+
+  > h2:first-child {
+    margin-top: 0.25rem;
+  }
+
+  > h3 {
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+    margin: 2.1rem 0 0.85rem;
+    color: $link-color;
+    font-size: 1.05rem;
+    letter-spacing: 0.02em;
+
+    &::after {
+      flex: 1;
+      height: 1px;
+      background: $border-color;
+      content: "";
+    }
+  }
+
+  > h3 + ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+    > li {
+      margin: 0;
+      padding: 1rem 0 1.15rem;
+      border-bottom: 1px solid $border-color;
+      font-size: 0.94rem;
+      line-height: 1.62;
+
+      > strong:first-child,
+      > p > strong:first-child {
+        color: $text-color;
+        font-size: 1rem;
+      }
+    }
+  }
+}
+
+.research-interests {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.7rem;
+  margin: 0 0 2.2rem;
+  padding: 0;
+  list-style: none;
+  counter-reset: research-interest;
+
+  li {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.7rem;
+    min-height: 5.1rem;
+    margin: 0;
+    padding: 1rem;
+    border: 1px solid $border-color;
+    border-radius: 6px;
+    background: $code-background-color;
+    color: $text-color;
+    font-size: 0.9rem;
+    font-weight: 600;
+    line-height: 1.45;
+    counter-increment: research-interest;
+
+    &::before {
+      display: inline-grid;
+      flex: 0 0 1.6rem;
+      width: 1.6rem;
+      height: 1.6rem;
+      place-items: center;
+      border-radius: 50%;
+      background: $link-color;
+      color: #fff;
+      font-size: 0.72rem;
+      font-weight: 700;
+      content: counter(research-interest);
+    }
+  }
+}
+
+.publication-note {
+  margin-bottom: 1.5rem;
+  color: $gray;
+  font-size: 0.82rem;
+}
+
+@media (max-width: 767px) {
+  .research-interests {
+    grid-template-columns: 1fr;
+
+    li {
+      min-height: 0;
+    }
+  }
+}

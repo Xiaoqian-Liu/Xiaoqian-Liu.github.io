@@ -1,6 +1,7 @@
 ---
 permalink: /teaching/
 title: "Teaching"
+hide_title: true
 ---
 
 ### University of California,  Riverside
@@ -24,5 +25,4 @@ title: "Teaching"
      - *Teaching Assistant*, Fall 2017
 - Stochastic Analysis
      - *Teaching Assistant*, Spring 2016
-
 

@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Research"
+    url: /research/
 
   - title: "Group"
     url: /Group/
@@ -9,14 +9,14 @@ main:
   #- title: "Research"
   #  url: /research/  
 
-  #- title: "Talks"
-  #  url: /talks/    
+  - title: "Talks"
+    url: /talks/
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Software"
-    url: /software/
+  #- title: "Software"
+  #  url: /software/
 
   #- title: "Posts"
   #  url: /posts/
