@@ -26,10 +26,10 @@ hide_title: true
 ## Selected past talks
 
 <ul class="talk-list">
-<li>
-<strong>Transfer Learning for Robust Structured Regression with Bi-level Source Detection<strong>
-<span> JSM 2026 · Aug. 5, 2026</span>
-</li>
+  <li>
+    <strong>Transfer Learning for Robust Structured Regression with Bi-level Source Detection</strong>
+    <span>JSM 2026 · Aug. 5, 2026</span>
+  </li>
   <li>
     <strong>Transfer Learning for Robust Structured Regression with Bi-level Source Detection</strong>
     <span>2026 ICSA Applied Statistics Symposium · June 16, 2026 · Invited talk</span>
