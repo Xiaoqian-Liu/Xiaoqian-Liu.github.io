@@ -13,7 +13,7 @@ hide_title: true
   </li>
   <li>
     <strong>Jordyn Niemiec</strong>
-    <span>PhD student in GGB at UC Riverside · Co-advised with Prof. Ernest Martinez · 01/2026–present</span>
+    <span>PhD student in GGB at UC Riverside · 01/2026–present · Co-advised with Prof. Ernest Martinez</span>
   </li>
   <li>
     <strong>Haoming Shi</strong>
