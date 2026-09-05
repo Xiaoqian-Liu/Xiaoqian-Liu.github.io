@@ -19,7 +19,7 @@ My research lies at the intersection of statistical machine learning, computatio
 
 [//]: # - I am actively looking for highly motivated Ph.D. students to work on 1) method and algorithm development in statistics and machine learning, 2) LLM evaluation, and 3) applications in cancer biology. Please feel free to send me an email with your CV if you are interested. 
 
-I am actively looking for highly motivated Ph.D. students from Statistics and GGB. Interested students are welcome to email me their CV and a brief description of their research interests. 
+I am actively looking for highly motivated Ph.D. students to join my group. Interested students are welcome to email me their CV and a brief description of their research interests. 
 
 ## News
 
