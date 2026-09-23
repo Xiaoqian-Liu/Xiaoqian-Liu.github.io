@@ -19,8 +19,4 @@ hide_title: true
     <strong>Jordyn Niemiec</strong>
     <span>PhD student in GGB at UC Riverside · 01/2026–present · Co-advised with Prof. Ernest Martinez</span>
   </li>
-  <li>
-    <strong>Haoming Shi</strong>
-    <span>PhD student in Statistics at Rice University · 02/2025–present</span>
-  </li>
 </ul>
