@@ -11,6 +11,10 @@ hide_title: true
     <strong><a href="/files/CV_Xinhao.pdf">Xinhao Qu</a></strong>
     <span>PhD student in Statistics at UC Riverside · 02/2026–present</span>
   </li>
+    <li>
+    <strong>Hieu Hoang</strong>
+    <span>PhD student in Statistics at UC Riverside · 07/2026–present</span>
+  </li>
   <li>
     <strong>Jordyn Niemiec</strong>
     <span>PhD student in GGB at UC Riverside · 01/2026–present · Co-advised with Prof. Ernest Martinez</span>
