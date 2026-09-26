@@ -52,7 +52,7 @@ hide_title: true
   position: relative;
   overflow: hidden;
   border-radius: 8px;
-  background: #f0f0f0;
+  
 }
 
 .slide {
