@@ -28,7 +28,7 @@ hide_title: true
 <div class="slideshow-container">
   <div class="slide active">
     <img src="/images/2026.9.25.JPG" />
-    <div class="slide-title">First group together and celebration of Moon Festival 2026!</div>
+    <div class="slide-title">First group get-together and celebration of the 2026 Moon Festival!</div>
     <div class="slide-caption">September 25, 2026</div>
   </div>
   <!-- Add more slides here as you take more group photos:
