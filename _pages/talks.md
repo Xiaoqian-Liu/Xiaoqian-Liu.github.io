@@ -12,6 +12,7 @@ hide_title: true
   <li>
     <strong>An Interpretable and Scalable Framework for Evaluating Large Language Models</strong>
     <span>Biostatistics Seminar, University of California, Berkeley · Nov. 23, 2026 · Invited seminar talk</span>
+    <span>Conference on Statistical Foundations of Artificial Intelligence (CSFAI) · Nov. 13, 2026 · Invited talk</span>
     <span>RAISE Seminar, University of California, Riverside · Oct. 30, 2026 · Invited seminar talk</span>
   </li>
   <li>
