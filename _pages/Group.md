@@ -142,7 +142,7 @@ hide_title: true
   var dotsContainer = document.getElementById('dots');
   var current = 0;
 
-  // Build dots
+  /* Build dots */
   slides.forEach(function(_, i) {
     var dot = document.createElement('span');
     dot.className = 'dot' + (i === 0 ? ' active' : '');
@@ -160,7 +160,7 @@ hide_title: true
 
   window.changeSlide = function(dir) { goTo(current + dir); };
 
-  // Auto-advance every 5 seconds when multiple slides exist
+  /* Auto-advance every 5 seconds when multiple slides exist */
   if (slides.length > 1) {
     setInterval(function() { goTo(current + 1); }, 5000);
   }
