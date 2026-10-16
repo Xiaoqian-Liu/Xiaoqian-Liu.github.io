@@ -12,7 +12,7 @@ hide_title: true
     <span>PhD student in Statistics at UC Riverside · 02/2026–present</span>
   </li>
     <li>
-    <strong>Hieu Hoang</strong>
+    <strong>Hieu (Calvin) Hoang</strong>
     <span>PhD student in Statistics at UC Riverside · 07/2026–present</span>
   </li>
   <li>
