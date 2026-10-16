@@ -33,7 +33,7 @@ hide_title: true
   </div>
   <div class="slide">
     <img src="/images/2026.10.15.JPG" />
-    <div class="slide-title">Xinhao giving a poster presentation at UCR AI Summit!</div>
+    <div class="slide-title">Xinhao presenting his poster at the UCR AI Summit!</div>
     <div class="slide-caption">October 15, 2026</div>
   </div>
   <!-- Add more slides here as you take more group photos:
