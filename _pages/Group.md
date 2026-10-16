@@ -31,7 +31,7 @@ hide_title: true
     <div class="slide-title">First group get-together and celebration of the 2026 Moon Festival!</div>
     <div class="slide-caption">September 25, 2026</div>
   </div>
-  <div class="slide active">
+  <div class="slide">
     <img src="/images/2026.10.15.JPG" />
     <div class="slide-title">Xinhao giving a poster presentation at UCR AI Summit!</div>
     <div class="slide-caption">October 15, 2026</div>
