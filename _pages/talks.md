@@ -26,7 +26,6 @@ hide_title: true
   <li>
     <strong>Beyond Average Accuracy: Interpretable Evaluation of Large Language Models at Scale</strong>
     <span>RAISE Seminar, University of California, Riverside · Oct. 30, 2026 · Invited seminar talk</span>
-    <span>2026 ICSA Applied Statistics Symposium · June 16, 2026 · Invited talk</span>
   </li>
   <li>
     <strong>Transfer Learning for Robust Structured Regression with Bi-level Source Detection</strong>
