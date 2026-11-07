@@ -8,7 +8,7 @@ hide_title: true
 
 <ul class="talk-list">
   <li>
-    <strong><a href="/files/CV_Xinhao.pdf">Xinhao Qu</a></strong>
+    <strong>Xinhao Qu</strong>
     <span>PhD student in Statistics at UC Riverside · 02/2026–present</span>
   </li>
     <li>
@@ -21,6 +21,11 @@ hide_title: true
   </li>
 </ul>
 
+## Undergraduate Students
+  <li>
+    <strong>Kora Dey</strong>
+    <span>Undergraduate in Statistics at UC Riverside · 01/2026–present</span>
+  </li>
 ---
 
 ## Group Photos
