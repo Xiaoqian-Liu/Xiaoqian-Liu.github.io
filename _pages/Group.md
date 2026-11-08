@@ -22,10 +22,12 @@ hide_title: true
 </ul>
 
 ## Undergraduate Students
+<ul class="talk-list">
   <li>
     <strong>Kora Dey</strong>
     <span>Undergraduate in Statistics at UC Riverside · 01/2026–present</span>
   </li>
+</ul>
 ---
 
 ## Group Photos
