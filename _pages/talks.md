@@ -9,23 +9,24 @@ hide_title: true
 ## Upcoming talks
 
 <ul class="talk-list">
+</ul>
+
+## Selected past talks
+
+
+<ul class="talk-list">
   <li>
-    <strong>An Interpretable and Scalable Framework for Evaluating Large Language Models</strong>
+    <strong>Beyond Average Accuracy: Scalable LLM Evaluation and Benchmark Refinement</strong>
     <span>Biostatistics Seminar, University of California, Berkeley · Nov. 23, 2026 · Invited seminar talk</span>
-    <span>Conference on Statistical Foundations of Artificial Intelligence (CSFAI) · Nov. 13, 2026 · Invited talk</span>
   </li>
   <li>
     <strong>Transfer Learning for Robust Structured Regression with Bi-level Source Detection</strong>
     <span>2026 SLDS Conference · Nov. 1, 2026 · Invited talk</span>
   </li>
-</ul>
-
-## Selected past talks
-
-<ul class="talk-list">
   <li>
     <strong>Beyond Average Accuracy: Interpretable Evaluation of Large Language Models at Scale</strong>
     <span>RAISE Seminar, University of California, Riverside · Oct. 30, 2026 · Invited seminar talk</span>
+    <span>Conference on Statistical Foundations of Artificial Intelligence (CSFAI) · Nov. 13, 2026 · Invited talk</span>
   </li>
   <li>
     <strong>Transfer Learning for Robust Structured Regression with Bi-level Source Detection</strong>
